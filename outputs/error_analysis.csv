@@ -1,0 +1,2 @@
+filename,true_label,pred_label,shoplifting_prob
+shop_lifter_n_90.mp4,normal,shoplifting,0.5239
