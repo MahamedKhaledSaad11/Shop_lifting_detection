@@ -31,7 +31,7 @@ class ShopliftingDataset(Dataset):
         T: int = 16,
         transform: Optional[Callable] = None,
         is_train: Optional[bool] = None,
-        deduplicate: bool = False,
+        deduplicate: bool = True,
     ):
         """
         Args:

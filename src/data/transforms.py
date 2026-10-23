@@ -34,7 +34,8 @@ class ClipTransform:
         self,
         is_train: bool = True,
         image_size: int = 224,
-        crop_scale: Tuple[float, float] = (0.7, 1.0),
+        crop_scale: Tuple[float, float] = (0.85, 1.0),
+        crop_ratio: Tuple[float, float] = (0.9, 1.35),
         flip_prob: float = 0.5,
         color_jitter: Optional[Tuple[float, float, float, float]] = (0.2, 0.2, 0.2, 0.05),
         mean: Sequence[float] = (0.485, 0.456, 0.406),
@@ -43,6 +44,7 @@ class ClipTransform:
         self.is_train = is_train
         self.image_size = image_size
         self.crop_scale = crop_scale
+        self.crop_ratio = crop_ratio
         self.flip_prob = flip_prob
         self.mean = list(mean)
         self.std = list(std)
@@ -70,16 +72,22 @@ class ClipTransform:
         """
         # Convert np.ndarray (T, H, W, C) -> torch.Tensor (T, C, H, W)
         if isinstance(frames, np.ndarray):
-            # Transpose (T, H, W, C) -> (T, C, H, W)
             frames = torch.from_numpy(frames).permute(0, 3, 1, 2)
         elif isinstance(frames, torch.Tensor) and frames.ndim == 4 and frames.shape[-1] == 3:
-            # (T, H, W, C) Tensor -> (T, C, H, W)
             frames = frames.permute(0, 3, 1, 2)
 
+        # Convert immediately to float32 in [0.0, 1.0] to prevent uint8 quantization errors
+        if frames.dtype == torch.uint8:
+            frames = frames.float() / 255.0
+        elif frames.max() > 1.0:
+            frames = frames.float() / 255.0
+        else:
+            frames = frames.float()
+
         if self.is_train:
-            # 1. Random Resized Crop with consistent parameters across all frames
+            # 1. Random Resized Crop with wide aspect ratio preserving peripheral store shelves
             i, j, h, w = RandomResizedCrop.get_params(
-                frames, scale=self.crop_scale, ratio=(3.0 / 4.0, 4.0 / 3.0)
+                frames, scale=self.crop_scale, ratio=self.crop_ratio
             )
             frames = F.resized_crop(
                 frames,
@@ -114,23 +122,10 @@ class ClipTransform:
                         frames = F.adjust_hue(frames, h_factor)
 
         else:
-            # Validation / Test: Deterministic Center Crop pipeline
-            # Resize shorter side to maintain aspect ratio, then center crop
-            # Original aspect is 704x576 (PAL ~ 1.22 ratio)
-            scale_factor = 256.0 / 224.0
-            short_side = int(round(self.image_size * scale_factor))
-            # H: short_side, W: int(round(short_side * 704 / 576))
-            frames = F.resize(frames, size=[short_side], antialias=True)
-            frames = F.center_crop(frames, output_size=[self.image_size, self.image_size])
+            # Validation / Test: Preserve 100% full CCTV field of view without center crop
+            frames = F.resize(frames, size=[self.image_size, self.image_size], antialias=True)
 
-        # Normalize to float32 in [0, 1] then standardize
-        if frames.dtype == torch.uint8:
-            frames = frames.float() / 255.0
-        elif frames.max() > 1.0:
-            frames = frames.float() / 255.0
-        else:
-            frames = frames.float()
-
+        # Standardize using dataset statistics
         frames = F.normalize(frames, mean=self.mean, std=self.std)
         return frames
 
@@ -147,6 +142,7 @@ def get_transforms(
         is_train=is_train,
         image_size=cfg.image_size,
         crop_scale=cfg.crop_scale,
+        crop_ratio=cfg.crop_ratio,
         flip_prob=cfg.flip_prob if is_train else 0.0,
         color_jitter=(
             (

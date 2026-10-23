@@ -41,7 +41,8 @@ RANDOM_SEED = 42
 class DataConfig:
     num_frames: int = 16  # T frames sampled uniformly
     image_size: int = 224  # 224 for 2D ResNet, 112 for 3D CNN
-    crop_scale: tuple = (0.7, 1.0)
+    crop_scale: tuple = (0.85, 1.0)
+    crop_ratio: tuple = (0.9, 1.35)  # Preserves wide PAL CCTV 704x576 field of view
     jitter_brightness: float = 0.2
     jitter_contrast: float = 0.2
     jitter_saturation: float = 0.2
@@ -49,6 +50,8 @@ class DataConfig:
     flip_prob: float = 0.5
     mean: tuple = (0.485, 0.456, 0.406)  # ImageNet default
     std: tuple = (0.229, 0.224, 0.225)
+    kinetics_mean: tuple = (0.43216, 0.394666, 0.37645)  # Kinetics-400 default
+    kinetics_std: tuple = (0.22803, 0.22145, 0.216989)
     train_ratio: float = 0.70
     val_ratio: float = 0.15
     test_ratio: float = 0.15
