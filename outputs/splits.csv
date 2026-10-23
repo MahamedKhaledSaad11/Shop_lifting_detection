@@ -1,0 +1,856 @@
+filename,path,label,label_name,group_id,is_duplicate,n_frames,fps,duration_s,width,height,split
+shop_lifter_n_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_0.mp4,0,normal,normal_shop_lifter_n_0,False,450,25.0,18.0,704,576,test
+shop_lifter_n_0_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_0_1.mp4,0,normal,normal_shop_lifter_n_0,True,450,25.0,18.0,704,576,test
+shop_lifter_n_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_1.mp4,0,normal,normal_shop_lifter_n_1,False,450,25.0,18.0,704,576,val
+shop_lifter_n_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_10.mp4,0,normal,normal_shop_lifter_n_10,False,475,25.0,19.0,704,576,train
+shop_lifter_n_100.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_100.mp4,0,normal,normal_shop_lifter_n_100,False,400,25.0,16.0,704,576,train
+shop_lifter_n_100_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_100_1.mp4,0,normal,normal_shop_lifter_n_100,True,400,25.0,16.0,704,576,train
+shop_lifter_n_101.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_101.mp4,0,normal,normal_shop_lifter_n_101,False,300,25.0,12.0,704,576,val
+shop_lifter_n_101_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_101_1.mp4,0,normal,normal_shop_lifter_n_101,True,300,25.0,12.0,704,576,val
+shop_lifter_n_102.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_102.mp4,0,normal,normal_shop_lifter_n_102,False,275,25.0,11.0,704,576,train
+shop_lifter_n_102_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_102_1.mp4,0,normal,normal_shop_lifter_n_102,True,275,25.0,11.0,704,576,train
+shop_lifter_n_103.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_103.mp4,0,normal,normal_shop_lifter_n_103,False,275,25.0,11.0,704,576,train
+shop_lifter_n_103_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_103_1.mp4,0,normal,normal_shop_lifter_n_103,True,275,25.0,11.0,704,576,train
+shop_lifter_n_104.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_104.mp4,0,normal,normal_shop_lifter_n_104,False,350,25.0,14.0,704,576,train
+shop_lifter_n_104_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_104_1.mp4,0,normal,normal_shop_lifter_n_104,True,350,25.0,14.0,704,576,train
+shop_lifter_n_105.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_105.mp4,0,normal,normal_shop_lifter_n_105,False,275,25.0,11.0,704,576,train
+shop_lifter_n_105_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_105_1.mp4,0,normal,normal_shop_lifter_n_105,True,275,25.0,11.0,704,576,train
+shop_lifter_n_106.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_106.mp4,0,normal,normal_shop_lifter_n_106,False,275,25.0,11.0,704,576,train
+shop_lifter_n_106_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_106_1.mp4,0,normal,normal_shop_lifter_n_106,True,275,25.0,11.0,704,576,train
+shop_lifter_n_107.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_107.mp4,0,normal,normal_shop_lifter_n_107,False,175,25.0,7.0,704,576,test
+shop_lifter_n_107_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_107_1.mp4,0,normal,normal_shop_lifter_n_107,True,175,25.0,7.0,704,576,test
+shop_lifter_n_108.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_108.mp4,0,normal,normal_shop_lifter_n_108,False,150,25.0,6.0,704,576,train
+shop_lifter_n_108_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_108_1.mp4,0,normal,normal_shop_lifter_n_108,True,150,25.0,6.0,704,576,train
+shop_lifter_n_109.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_109.mp4,0,normal,normal_shop_lifter_n_109,False,250,25.0,10.0,704,576,test
+shop_lifter_n_109_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_109_1.mp4,0,normal,normal_shop_lifter_n_109,True,250,25.0,10.0,704,576,test
+shop_lifter_n_10_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_10_1.mp4,0,normal,normal_shop_lifter_n_10,True,475,25.0,19.0,704,576,train
+shop_lifter_n_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_11.mp4,0,normal,normal_shop_lifter_n_11,False,425,25.0,17.0,704,576,train
+shop_lifter_n_110.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_110.mp4,0,normal,normal_shop_lifter_n_110,False,175,25.0,7.0,704,576,train
+shop_lifter_n_110_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_110_1.mp4,0,normal,normal_shop_lifter_n_110,True,175,25.0,7.0,704,576,train
+shop_lifter_n_111.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_111.mp4,0,normal,normal_shop_lifter_n_111,False,150,25.0,6.0,704,576,train
+shop_lifter_n_111_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_111_1.mp4,0,normal,normal_shop_lifter_n_111,True,150,25.0,6.0,704,576,train
+shop_lifter_n_112.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_112.mp4,0,normal,normal_shop_lifter_n_112,False,250,25.0,10.0,704,576,train
+shop_lifter_n_112_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_112_1.mp4,0,normal,normal_shop_lifter_n_112,True,250,25.0,10.0,704,576,train
+shop_lifter_n_113.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_113.mp4,0,normal,normal_shop_lifter_n_113,False,250,25.0,10.0,704,576,train
+shop_lifter_n_113_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_113_1.mp4,0,normal,normal_shop_lifter_n_113,True,250,25.0,10.0,704,576,train
+shop_lifter_n_114.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_114.mp4,0,normal,normal_shop_lifter_n_114,False,325,25.0,13.0,704,576,train
+shop_lifter_n_114_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_114_1.mp4,0,normal,normal_shop_lifter_n_114,True,325,25.0,13.0,704,576,train
+shop_lifter_n_115.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_115.mp4,0,normal,normal_shop_lifter_n_115,False,275,25.0,11.0,704,576,val
+shop_lifter_n_115_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_115_1.mp4,0,normal,normal_shop_lifter_n_115,True,275,25.0,11.0,704,576,val
+shop_lifter_n_116.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_116.mp4,0,normal,normal_shop_lifter_n_116,False,250,25.0,10.0,704,576,train
+shop_lifter_n_116_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_116_1.mp4,0,normal,normal_shop_lifter_n_116,True,250,25.0,10.0,704,576,train
+shop_lifter_n_117.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_117.mp4,0,normal,normal_shop_lifter_n_117,False,300,25.0,12.0,704,576,train
+shop_lifter_n_117_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_117_1.mp4,0,normal,normal_shop_lifter_n_117,True,300,25.0,12.0,704,576,train
+shop_lifter_n_118.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_118.mp4,0,normal,normal_shop_lifter_n_118,False,250,25.0,10.0,704,576,test
+shop_lifter_n_118_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_118_1.mp4,0,normal,normal_shop_lifter_n_118,True,250,25.0,10.0,704,576,test
+shop_lifter_n_119.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_119.mp4,0,normal,normal_shop_lifter_n_119,False,250,25.0,10.0,704,576,test
+shop_lifter_n_119_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_119_1.mp4,0,normal,normal_shop_lifter_n_119,True,250,25.0,10.0,704,576,test
+shop_lifter_n_11_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_11_1.mp4,0,normal,normal_shop_lifter_n_11,True,425,25.0,17.0,704,576,train
+shop_lifter_n_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_12.mp4,0,normal,normal_shop_lifter_n_12,False,400,25.0,16.0,704,576,train
+shop_lifter_n_120.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_120.mp4,0,normal,normal_shop_lifter_n_120,False,250,25.0,10.0,704,576,train
+shop_lifter_n_120_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_120_1.mp4,0,normal,normal_shop_lifter_n_120,True,250,25.0,10.0,704,576,train
+shop_lifter_n_121.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_121.mp4,0,normal,normal_shop_lifter_n_121,False,225,25.0,9.0,704,576,train
+shop_lifter_n_121_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_121_1.mp4,0,normal,normal_shop_lifter_n_121,True,225,25.0,9.0,704,576,train
+shop_lifter_n_122.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_122.mp4,0,normal,normal_shop_lifter_n_122,False,200,25.0,8.0,704,576,train
+shop_lifter_n_122_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_122_1.mp4,0,normal,normal_shop_lifter_n_122,True,200,25.0,8.0,704,576,train
+shop_lifter_n_123.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_123.mp4,0,normal,normal_shop_lifter_n_123,False,200,25.0,8.0,704,576,train
+shop_lifter_n_123_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_123_1.mp4,0,normal,normal_shop_lifter_n_123,True,200,25.0,8.0,704,576,train
+shop_lifter_n_124.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_124.mp4,0,normal,normal_shop_lifter_n_124,False,200,25.0,8.0,704,576,test
+shop_lifter_n_124_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_124_1.mp4,0,normal,normal_shop_lifter_n_124,True,200,25.0,8.0,704,576,test
+shop_lifter_n_125.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_125.mp4,0,normal,normal_shop_lifter_n_125,False,275,25.0,11.0,704,576,val
+shop_lifter_n_125_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_125_1.mp4,0,normal,normal_shop_lifter_n_125,True,275,25.0,11.0,704,576,val
+shop_lifter_n_126.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_126.mp4,0,normal,normal_shop_lifter_n_126,False,200,25.0,8.0,704,576,train
+shop_lifter_n_126_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_126_1.mp4,0,normal,normal_shop_lifter_n_126,True,200,25.0,8.0,704,576,train
+shop_lifter_n_127.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_127.mp4,0,normal,normal_shop_lifter_n_127,False,400,25.0,16.0,704,576,train
+shop_lifter_n_127_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_127_1.mp4,0,normal,normal_shop_lifter_n_127,True,400,25.0,16.0,704,576,train
+shop_lifter_n_128.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_128.mp4,0,normal,normal_shop_lifter_n_128,False,300,25.0,12.0,704,576,test
+shop_lifter_n_128_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_128_1.mp4,0,normal,normal_shop_lifter_n_128,True,300,25.0,12.0,704,576,test
+shop_lifter_n_129.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_129.mp4,0,normal,normal_shop_lifter_n_129,False,250,25.0,10.0,704,576,train
+shop_lifter_n_129_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_129_1.mp4,0,normal,normal_shop_lifter_n_129,True,250,25.0,10.0,704,576,train
+shop_lifter_n_12_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_12_1.mp4,0,normal,normal_shop_lifter_n_12,True,400,25.0,16.0,704,576,train
+shop_lifter_n_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_13.mp4,0,normal,normal_shop_lifter_n_13,False,1850,25.0,74.0,704,576,test
+shop_lifter_n_130.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_130.mp4,0,normal,normal_shop_lifter_n_130,False,300,25.0,12.0,704,576,train
+shop_lifter_n_130_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_130_1.mp4,0,normal,normal_shop_lifter_n_130,True,300,25.0,12.0,704,576,train
+shop_lifter_n_131.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_131.mp4,0,normal,normal_shop_lifter_n_131,False,325,25.0,13.0,704,576,val
+shop_lifter_n_131_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_131_1.mp4,0,normal,normal_shop_lifter_n_131,True,325,25.0,13.0,704,576,val
+shop_lifter_n_132.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_132.mp4,0,normal,normal_shop_lifter_n_132,False,425,25.0,17.0,704,576,test
+shop_lifter_n_132_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_132_1.mp4,0,normal,normal_shop_lifter_n_132,True,425,25.0,17.0,704,576,test
+shop_lifter_n_133.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_133.mp4,0,normal,normal_shop_lifter_n_133,False,300,25.0,12.0,704,576,train
+shop_lifter_n_133_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_133_1.mp4,0,normal,normal_shop_lifter_n_133,True,300,25.0,12.0,704,576,train
+shop_lifter_n_134.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_134.mp4,0,normal,normal_shop_lifter_n_134,False,400,25.0,16.0,704,576,train
+shop_lifter_n_134_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_134_1.mp4,0,normal,normal_shop_lifter_n_134,True,400,25.0,16.0,704,576,train
+shop_lifter_n_135.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_135.mp4,0,normal,normal_shop_lifter_n_135,False,325,25.0,13.0,704,576,train
+shop_lifter_n_135_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_135_1.mp4,0,normal,normal_shop_lifter_n_135,True,325,25.0,13.0,704,576,train
+shop_lifter_n_136.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_136.mp4,0,normal,normal_shop_lifter_n_136,False,325,25.0,13.0,704,576,val
+shop_lifter_n_136_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_136_1.mp4,0,normal,normal_shop_lifter_n_136,True,325,25.0,13.0,704,576,val
+shop_lifter_n_137.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_137.mp4,0,normal,normal_shop_lifter_n_137,False,425,25.0,17.0,704,576,train
+shop_lifter_n_137_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_137_1.mp4,0,normal,normal_shop_lifter_n_137,True,425,25.0,17.0,704,576,train
+shop_lifter_n_138.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_138.mp4,0,normal,normal_shop_lifter_n_138,False,275,25.0,11.0,704,576,train
+shop_lifter_n_138_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_138_1.mp4,0,normal,normal_shop_lifter_n_138,True,275,25.0,11.0,704,576,train
+shop_lifter_n_139.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_139.mp4,0,normal,normal_shop_lifter_n_139,False,375,25.0,15.0,704,576,train
+shop_lifter_n_139_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_139_1.mp4,0,normal,normal_shop_lifter_n_139,True,375,25.0,15.0,704,576,train
+shop_lifter_n_13_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_13_1.mp4,0,normal,normal_shop_lifter_n_13,True,1850,25.0,74.0,704,576,test
+shop_lifter_n_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_14.mp4,0,normal,normal_shop_lifter_n_14,False,400,25.0,16.0,704,576,train
+shop_lifter_n_140.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_140.mp4,0,normal,normal_shop_lifter_n_140,False,325,25.0,13.0,704,576,val
+shop_lifter_n_140_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_140_1.mp4,0,normal,normal_shop_lifter_n_140,True,325,25.0,13.0,704,576,val
+shop_lifter_n_141.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_141.mp4,0,normal,normal_shop_lifter_n_141,False,375,25.0,15.0,704,576,train
+shop_lifter_n_141_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_141_1.mp4,0,normal,normal_shop_lifter_n_141,True,375,25.0,15.0,704,576,train
+shop_lifter_n_142.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_142.mp4,0,normal,normal_shop_lifter_n_142,False,450,25.0,18.0,704,576,train
+shop_lifter_n_142_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_142_1.mp4,0,normal,normal_shop_lifter_n_142,True,450,25.0,18.0,704,576,train
+shop_lifter_n_143.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_143.mp4,0,normal,normal_shop_lifter_n_143,False,375,25.0,15.0,704,576,train
+shop_lifter_n_143_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_143_1.mp4,0,normal,normal_shop_lifter_n_143,True,375,25.0,15.0,704,576,train
+shop_lifter_n_144.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_144.mp4,0,normal,normal_shop_lifter_n_144,False,450,25.0,18.0,704,576,train
+shop_lifter_n_144_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_144_1.mp4,0,normal,normal_shop_lifter_n_144,True,450,25.0,18.0,704,576,train
+shop_lifter_n_145.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_145.mp4,0,normal,normal_shop_lifter_n_145,False,300,25.0,12.0,704,576,train
+shop_lifter_n_145_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_145_1.mp4,0,normal,normal_shop_lifter_n_145,True,300,25.0,12.0,704,576,train
+shop_lifter_n_146.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_146.mp4,0,normal,normal_shop_lifter_n_146,False,300,25.0,12.0,704,576,train
+shop_lifter_n_146_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_146_1.mp4,0,normal,normal_shop_lifter_n_146,True,300,25.0,12.0,704,576,train
+shop_lifter_n_147.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_147.mp4,0,normal,normal_shop_lifter_n_147,False,325,25.0,13.0,704,576,train
+shop_lifter_n_147_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_147_1.mp4,0,normal,normal_shop_lifter_n_147,True,325,25.0,13.0,704,576,train
+shop_lifter_n_148.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_148.mp4,0,normal,normal_shop_lifter_n_148,False,250,25.0,10.0,704,576,train
+shop_lifter_n_148_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_148_1.mp4,0,normal,normal_shop_lifter_n_148,True,250,25.0,10.0,704,576,train
+shop_lifter_n_149.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_149.mp4,0,normal,normal_shop_lifter_n_149,False,225,25.0,9.0,704,576,train
+shop_lifter_n_149_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_149_1.mp4,0,normal,normal_shop_lifter_n_149,True,225,25.0,9.0,704,576,train
+shop_lifter_n_14_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_14_1.mp4,0,normal,normal_shop_lifter_n_14,True,400,25.0,16.0,704,576,train
+shop_lifter_n_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_15.mp4,0,normal,normal_shop_lifter_n_15,False,550,25.0,22.0,704,576,train
+shop_lifter_n_150.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_150.mp4,0,normal,normal_shop_lifter_n_150,False,300,25.0,12.0,704,576,train
+shop_lifter_n_150_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_150_1.mp4,0,normal,normal_shop_lifter_n_150,True,300,25.0,12.0,704,576,train
+shop_lifter_n_151.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_151.mp4,0,normal,normal_shop_lifter_n_151,False,275,25.0,11.0,704,576,val
+shop_lifter_n_151_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_151_1.mp4,0,normal,normal_shop_lifter_n_151,True,275,25.0,11.0,704,576,val
+shop_lifter_n_152.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_152.mp4,0,normal,normal_shop_lifter_n_152,False,400,25.0,16.0,704,576,train
+shop_lifter_n_152_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_152_1.mp4,0,normal,normal_shop_lifter_n_152,True,400,25.0,16.0,704,576,train
+shop_lifter_n_153.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_153.mp4,0,normal,normal_shop_lifter_n_153,False,375,25.0,15.0,704,576,test
+shop_lifter_n_153_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_153_1.mp4,0,normal,normal_shop_lifter_n_153,True,375,25.0,15.0,704,576,test
+shop_lifter_n_154.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_154.mp4,0,normal,normal_shop_lifter_n_154,False,225,25.0,9.0,704,576,val
+shop_lifter_n_154_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_154_1.mp4,0,normal,normal_shop_lifter_n_154,True,225,25.0,9.0,704,576,val
+shop_lifter_n_155.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_155.mp4,0,normal,normal_shop_lifter_n_155,False,125,25.0,5.0,704,576,train
+shop_lifter_n_155_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_155_1.mp4,0,normal,normal_shop_lifter_n_155,True,125,25.0,5.0,704,576,train
+shop_lifter_n_156.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_156.mp4,0,normal,normal_shop_lifter_n_156,False,200,25.0,8.0,704,576,train
+shop_lifter_n_156_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_156_1.mp4,0,normal,normal_shop_lifter_n_156,True,200,25.0,8.0,704,576,train
+shop_lifter_n_157.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_157.mp4,0,normal,normal_shop_lifter_n_157,False,300,25.0,12.0,704,576,train
+shop_lifter_n_157_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_157_1.mp4,0,normal,normal_shop_lifter_n_157,True,300,25.0,12.0,704,576,train
+shop_lifter_n_158.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_158.mp4,0,normal,normal_shop_lifter_n_158,False,300,25.0,12.0,704,576,train
+shop_lifter_n_158_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_158_1.mp4,0,normal,normal_shop_lifter_n_158,True,300,25.0,12.0,704,576,train
+shop_lifter_n_159.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_159.mp4,0,normal,normal_shop_lifter_n_159,False,375,25.0,15.0,704,576,val
+shop_lifter_n_159_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_159_1.mp4,0,normal,normal_shop_lifter_n_159,True,375,25.0,15.0,704,576,val
+shop_lifter_n_15_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_15_1.mp4,0,normal,normal_shop_lifter_n_15,True,550,25.0,22.0,704,576,train
+shop_lifter_n_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_16.mp4,0,normal,normal_shop_lifter_n_16,False,425,25.0,17.0,704,576,train
+shop_lifter_n_160.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_160.mp4,0,normal,normal_shop_lifter_n_160,False,400,25.0,16.0,704,576,train
+shop_lifter_n_160_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_160_1.mp4,0,normal,normal_shop_lifter_n_160,True,400,25.0,16.0,704,576,train
+shop_lifter_n_161.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_161.mp4,0,normal,normal_shop_lifter_n_161,False,400,25.0,16.0,704,576,train
+shop_lifter_n_161_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_161_1.mp4,0,normal,normal_shop_lifter_n_161,True,400,25.0,16.0,704,576,train
+shop_lifter_n_162.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_162.mp4,0,normal,normal_shop_lifter_n_162,False,350,25.0,14.0,704,576,train
+shop_lifter_n_162_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_162_1.mp4,0,normal,normal_shop_lifter_n_162,True,350,25.0,14.0,704,576,train
+shop_lifter_n_163.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_163.mp4,0,normal,normal_shop_lifter_n_163,False,350,25.0,14.0,704,576,val
+shop_lifter_n_163_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_163_1.mp4,0,normal,normal_shop_lifter_n_163,True,350,25.0,14.0,704,576,val
+shop_lifter_n_164.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_164.mp4,0,normal,normal_shop_lifter_n_164,False,425,25.0,17.0,704,576,train
+shop_lifter_n_164_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_164_1.mp4,0,normal,normal_shop_lifter_n_164,True,425,25.0,17.0,704,576,train
+shop_lifter_n_165.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_165.mp4,0,normal,normal_shop_lifter_n_165,False,400,25.0,16.0,704,576,train
+shop_lifter_n_165_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_165_1.mp4,0,normal,normal_shop_lifter_n_165,True,400,25.0,16.0,704,576,train
+shop_lifter_n_166.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_166.mp4,0,normal,normal_shop_lifter_n_166,False,375,25.0,15.0,704,576,train
+shop_lifter_n_166_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_166_1.mp4,0,normal,normal_shop_lifter_n_166,True,375,25.0,15.0,704,576,train
+shop_lifter_n_167.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_167.mp4,0,normal,normal_shop_lifter_n_167,False,375,25.0,15.0,704,576,train
+shop_lifter_n_167_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_167_1.mp4,0,normal,normal_shop_lifter_n_167,True,375,25.0,15.0,704,576,train
+shop_lifter_n_168.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_168.mp4,0,normal,normal_shop_lifter_n_168,False,350,25.0,14.0,704,576,train
+shop_lifter_n_168_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_168_1.mp4,0,normal,normal_shop_lifter_n_168,True,350,25.0,14.0,704,576,train
+shop_lifter_n_169.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_169.mp4,0,normal,normal_shop_lifter_n_169,False,475,25.0,19.0,704,576,test
+shop_lifter_n_169_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_169_1.mp4,0,normal,normal_shop_lifter_n_169,True,475,25.0,19.0,704,576,test
+shop_lifter_n_16_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_16_1.mp4,0,normal,normal_shop_lifter_n_16,True,425,25.0,17.0,704,576,train
+shop_lifter_n_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_17.mp4,0,normal,normal_shop_lifter_n_17,False,500,25.0,20.0,704,576,train
+shop_lifter_n_170.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_170.mp4,0,normal,normal_shop_lifter_n_170,False,250,25.0,10.0,704,576,test
+shop_lifter_n_170_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_170_1.mp4,0,normal,normal_shop_lifter_n_170,True,250,25.0,10.0,704,576,test
+shop_lifter_n_172.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_172.mp4,0,normal,normal_shop_lifter_n_172,False,350,25.0,14.0,704,576,test
+shop_lifter_n_172_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_172_1.mp4,0,normal,normal_shop_lifter_n_172,True,350,25.0,14.0,704,576,test
+shop_lifter_n_173.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_173.mp4,0,normal,normal_shop_lifter_n_173,False,425,25.0,17.0,704,576,train
+shop_lifter_n_173_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_173_1.mp4,0,normal,normal_shop_lifter_n_173,True,425,25.0,17.0,704,576,train
+shop_lifter_n_174.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_174.mp4,0,normal,normal_shop_lifter_n_174,False,375,25.0,15.0,704,576,train
+shop_lifter_n_174_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_174_1.mp4,0,normal,normal_shop_lifter_n_174,True,375,25.0,15.0,704,576,train
+shop_lifter_n_175.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_175.mp4,0,normal,normal_shop_lifter_n_175,False,450,25.0,18.0,704,576,train
+shop_lifter_n_175_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_175_1.mp4,0,normal,normal_shop_lifter_n_175,True,450,25.0,18.0,704,576,train
+shop_lifter_n_176.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_176.mp4,0,normal,normal_shop_lifter_n_176,False,375,25.0,15.0,704,576,train
+shop_lifter_n_176_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_176_1.mp4,0,normal,normal_shop_lifter_n_176,True,375,25.0,15.0,704,576,train
+shop_lifter_n_177.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_177.mp4,0,normal,normal_shop_lifter_n_177,False,425,25.0,17.0,704,576,train
+shop_lifter_n_177_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_177_1.mp4,0,normal,normal_shop_lifter_n_177,True,425,25.0,17.0,704,576,train
+shop_lifter_n_178.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_178.mp4,0,normal,normal_shop_lifter_n_178,False,525,25.0,21.0,704,576,val
+shop_lifter_n_178_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_178_1.mp4,0,normal,normal_shop_lifter_n_178,True,525,25.0,21.0,704,576,val
+shop_lifter_n_179.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_179.mp4,0,normal,normal_shop_lifter_n_179,False,150,25.0,6.0,704,576,val
+shop_lifter_n_179_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_179_1.mp4,0,normal,normal_shop_lifter_n_179,True,150,25.0,6.0,704,576,val
+shop_lifter_n_17_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_17_1.mp4,0,normal,normal_shop_lifter_n_17,True,500,25.0,20.0,704,576,train
+shop_lifter_n_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_18.mp4,0,normal,normal_shop_lifter_n_18,False,350,25.0,14.0,704,576,train
+shop_lifter_n_180.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_180.mp4,0,normal,normal_shop_lifter_n_180,False,375,25.0,15.0,704,576,train
+shop_lifter_n_180_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_180_1.mp4,0,normal,normal_shop_lifter_n_180,True,375,25.0,15.0,704,576,train
+shop_lifter_n_181.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_181.mp4,0,normal,normal_shop_lifter_n_181,False,275,25.0,11.0,704,576,train
+shop_lifter_n_181_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_181_1.mp4,0,normal,normal_shop_lifter_n_181,True,275,25.0,11.0,704,576,train
+shop_lifter_n_182.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_182.mp4,0,normal,normal_shop_lifter_n_182,False,375,25.0,15.0,704,576,train
+shop_lifter_n_182_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_182_1.mp4,0,normal,normal_shop_lifter_n_182,True,375,25.0,15.0,704,576,train
+shop_lifter_n_183.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_183.mp4,0,normal,normal_shop_lifter_n_183,False,375,25.0,15.0,704,576,train
+shop_lifter_n_183_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_183_1.mp4,0,normal,normal_shop_lifter_n_183,True,375,25.0,15.0,704,576,train
+shop_lifter_n_184.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_184.mp4,0,normal,normal_shop_lifter_n_184,False,300,25.0,12.0,704,576,test
+shop_lifter_n_184_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_184_1.mp4,0,normal,normal_shop_lifter_n_184,True,300,25.0,12.0,704,576,test
+shop_lifter_n_185.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_185.mp4,0,normal,normal_shop_lifter_n_185,False,375,25.0,15.0,704,576,train
+shop_lifter_n_185_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_185_1.mp4,0,normal,normal_shop_lifter_n_185,True,375,25.0,15.0,704,576,train
+shop_lifter_n_186.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_186.mp4,0,normal,normal_shop_lifter_n_186,False,275,25.0,11.0,704,576,train
+shop_lifter_n_186_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_186_1.mp4,0,normal,normal_shop_lifter_n_186,True,275,25.0,11.0,704,576,train
+shop_lifter_n_187.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_187.mp4,0,normal,normal_shop_lifter_n_187,False,225,25.0,9.0,704,576,train
+shop_lifter_n_187_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_187_1.mp4,0,normal,normal_shop_lifter_n_187,True,225,25.0,9.0,704,576,train
+shop_lifter_n_188.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_188.mp4,0,normal,normal_shop_lifter_n_188,False,275,25.0,11.0,704,576,val
+shop_lifter_n_188_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_188_1.mp4,0,normal,normal_shop_lifter_n_188,True,275,25.0,11.0,704,576,val
+shop_lifter_n_189.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_189.mp4,0,normal,normal_shop_lifter_n_189,False,200,25.0,8.0,704,576,val
+shop_lifter_n_189_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_189_1.mp4,0,normal,normal_shop_lifter_n_189,True,200,25.0,8.0,704,576,val
+shop_lifter_n_18_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_18_1.mp4,0,normal,normal_shop_lifter_n_18,True,350,25.0,14.0,704,576,train
+shop_lifter_n_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_19.mp4,0,normal,normal_shop_lifter_n_19,False,325,25.0,13.0,704,576,test
+shop_lifter_n_190.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_190.mp4,0,normal,normal_shop_lifter_n_190,False,200,25.0,8.0,704,576,train
+shop_lifter_n_190_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_190_1.mp4,0,normal,normal_shop_lifter_n_190,True,200,25.0,8.0,704,576,train
+shop_lifter_n_191.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_191.mp4,0,normal,normal_shop_lifter_n_191,False,175,25.0,7.0,704,576,test
+shop_lifter_n_191_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_191_1.mp4,0,normal,normal_shop_lifter_n_191,True,175,25.0,7.0,704,576,test
+shop_lifter_n_192.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_192.mp4,0,normal,normal_shop_lifter_n_192,False,275,25.0,11.0,704,576,train
+shop_lifter_n_192_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_192_1.mp4,0,normal,normal_shop_lifter_n_192,True,275,25.0,11.0,704,576,train
+shop_lifter_n_193.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_193.mp4,0,normal,normal_shop_lifter_n_193,False,325,25.0,13.0,704,576,train
+shop_lifter_n_193_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_193_1.mp4,0,normal,normal_shop_lifter_n_193,True,325,25.0,13.0,704,576,train
+shop_lifter_n_194.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_194.mp4,0,normal,normal_shop_lifter_n_194,False,250,25.0,10.0,704,576,train
+shop_lifter_n_194_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_194_1.mp4,0,normal,normal_shop_lifter_n_194,True,250,25.0,10.0,704,576,train
+shop_lifter_n_195.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_195.mp4,0,normal,normal_shop_lifter_n_195,False,325,25.0,13.0,704,576,train
+shop_lifter_n_195_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_195_1.mp4,0,normal,normal_shop_lifter_n_195,True,325,25.0,13.0,704,576,train
+shop_lifter_n_196.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_196.mp4,0,normal,normal_shop_lifter_n_196,False,250,25.0,10.0,704,576,train
+shop_lifter_n_196_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_196_1.mp4,0,normal,normal_shop_lifter_n_196,True,250,25.0,10.0,704,576,train
+shop_lifter_n_197.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_197.mp4,0,normal,normal_shop_lifter_n_197,False,425,25.0,17.0,704,576,train
+shop_lifter_n_197_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_197_1.mp4,0,normal,normal_shop_lifter_n_197,True,425,25.0,17.0,704,576,train
+shop_lifter_n_198.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_198.mp4,0,normal,normal_shop_lifter_n_198,False,425,25.0,17.0,704,576,train
+shop_lifter_n_198_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_198_1.mp4,0,normal,normal_shop_lifter_n_198,True,425,25.0,17.0,704,576,train
+shop_lifter_n_199.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_199.mp4,0,normal,normal_shop_lifter_n_199,False,375,25.0,15.0,704,576,train
+shop_lifter_n_199_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_199_1.mp4,0,normal,normal_shop_lifter_n_199,True,375,25.0,15.0,704,576,train
+shop_lifter_n_19_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_19_1.mp4,0,normal,normal_shop_lifter_n_19,True,325,25.0,13.0,704,576,test
+shop_lifter_n_1_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_1_1.mp4,0,normal,normal_shop_lifter_n_1,True,450,25.0,18.0,704,576,val
+shop_lifter_n_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_2.mp4,0,normal,normal_shop_lifter_n_2,False,325,25.0,13.0,704,576,train
+shop_lifter_n_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_20.mp4,0,normal,normal_shop_lifter_n_20,False,475,25.0,19.0,704,576,train
+shop_lifter_n_200.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_200.mp4,0,normal,normal_shop_lifter_n_200,False,400,25.0,16.0,704,576,train
+shop_lifter_n_200_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_200_1.mp4,0,normal,normal_shop_lifter_n_200,True,400,25.0,16.0,704,576,train
+shop_lifter_n_201.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_201.mp4,0,normal,normal_shop_lifter_n_201,False,350,25.0,14.0,704,576,train
+shop_lifter_n_201_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_201_1.mp4,0,normal,normal_shop_lifter_n_201,True,350,25.0,14.0,704,576,train
+shop_lifter_n_202.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_202.mp4,0,normal,normal_shop_lifter_n_202,False,425,25.0,17.0,704,576,train
+shop_lifter_n_202_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_202_1.mp4,0,normal,normal_shop_lifter_n_202,True,425,25.0,17.0,704,576,train
+shop_lifter_n_203.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_203.mp4,0,normal,normal_shop_lifter_n_203,False,500,25.0,20.0,704,576,train
+shop_lifter_n_203_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_203_1.mp4,0,normal,normal_shop_lifter_n_203,True,500,25.0,20.0,704,576,train
+shop_lifter_n_204.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_204.mp4,0,normal,normal_shop_lifter_n_204,False,400,25.0,16.0,704,576,val
+shop_lifter_n_204_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_204_1.mp4,0,normal,normal_shop_lifter_n_204,True,400,25.0,16.0,704,576,val
+shop_lifter_n_205.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_205.mp4,0,normal,normal_shop_lifter_n_205,False,425,25.0,17.0,704,576,train
+shop_lifter_n_205_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_205_1.mp4,0,normal,normal_shop_lifter_n_205,True,425,25.0,17.0,704,576,train
+shop_lifter_n_206.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_206.mp4,0,normal,normal_shop_lifter_n_206,False,650,25.0,26.0,704,576,train
+shop_lifter_n_206_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_206_1.mp4,0,normal,normal_shop_lifter_n_206,True,650,25.0,26.0,704,576,train
+shop_lifter_n_207.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_207.mp4,0,normal,normal_shop_lifter_n_207,False,475,25.0,19.0,704,576,train
+shop_lifter_n_207_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_207_1.mp4,0,normal,normal_shop_lifter_n_207,True,475,25.0,19.0,704,576,train
+shop_lifter_n_208.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_208.mp4,0,normal,normal_shop_lifter_n_208,False,475,25.0,19.0,704,576,train
+shop_lifter_n_208_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_208_1.mp4,0,normal,normal_shop_lifter_n_208,True,475,25.0,19.0,704,576,train
+shop_lifter_n_209.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_209.mp4,0,normal,normal_shop_lifter_n_209,False,425,25.0,17.0,704,576,train
+shop_lifter_n_209_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_209_1.mp4,0,normal,normal_shop_lifter_n_209,True,425,25.0,17.0,704,576,train
+shop_lifter_n_20_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_20_1.mp4,0,normal,normal_shop_lifter_n_20,True,475,25.0,19.0,704,576,train
+shop_lifter_n_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_21.mp4,0,normal,normal_shop_lifter_n_21,False,350,25.0,14.0,704,576,train
+shop_lifter_n_210.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_210.mp4,0,normal,normal_shop_lifter_n_210,False,500,25.0,20.0,704,576,train
+shop_lifter_n_210_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_210_1.mp4,0,normal,normal_shop_lifter_n_210,True,500,25.0,20.0,704,576,train
+shop_lifter_n_211.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_211.mp4,0,normal,normal_shop_lifter_n_211,False,400,25.0,16.0,704,576,train
+shop_lifter_n_211_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_211_1.mp4,0,normal,normal_shop_lifter_n_211,True,400,25.0,16.0,704,576,train
+shop_lifter_n_212.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_212.mp4,0,normal,normal_shop_lifter_n_212,False,350,25.0,14.0,704,576,test
+shop_lifter_n_212_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_212_1.mp4,0,normal,normal_shop_lifter_n_212,True,350,25.0,14.0,704,576,test
+shop_lifter_n_213.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_213.mp4,0,normal,normal_shop_lifter_n_213,False,450,25.0,18.0,704,576,train
+shop_lifter_n_213_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_213_1.mp4,0,normal,normal_shop_lifter_n_213,True,450,25.0,18.0,704,576,train
+shop_lifter_n_214.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_214.mp4,0,normal,normal_shop_lifter_n_214,False,325,25.0,13.0,704,576,train
+shop_lifter_n_214_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_214_1.mp4,0,normal,normal_shop_lifter_n_214,True,325,25.0,13.0,704,576,train
+shop_lifter_n_215.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_215.mp4,0,normal,normal_shop_lifter_n_215,False,75,25.0,3.0,704,576,train
+shop_lifter_n_215_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_215_1.mp4,0,normal,normal_shop_lifter_n_215,True,75,25.0,3.0,704,576,train
+shop_lifter_n_216.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_216.mp4,0,normal,normal_shop_lifter_n_216,False,350,25.0,14.0,704,576,train
+shop_lifter_n_216_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_216_1.mp4,0,normal,normal_shop_lifter_n_216,True,350,25.0,14.0,704,576,train
+shop_lifter_n_217.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_217.mp4,0,normal,normal_shop_lifter_n_217,False,250,25.0,10.0,704,576,train
+shop_lifter_n_217_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_217_1.mp4,0,normal,normal_shop_lifter_n_217,True,250,25.0,10.0,704,576,train
+shop_lifter_n_218.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_218.mp4,0,normal,normal_shop_lifter_n_218,False,275,25.0,11.0,704,576,val
+shop_lifter_n_218_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_218_1.mp4,0,normal,normal_shop_lifter_n_218,True,275,25.0,11.0,704,576,val
+shop_lifter_n_21_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_21_1.mp4,0,normal,normal_shop_lifter_n_21,True,350,25.0,14.0,704,576,train
+shop_lifter_n_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_22.mp4,0,normal,normal_shop_lifter_n_22,False,425,25.0,17.0,704,576,train
+shop_lifter_n_22_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_22_1.mp4,0,normal,normal_shop_lifter_n_22,True,425,25.0,17.0,704,576,train
+shop_lifter_n_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_23.mp4,0,normal,normal_shop_lifter_n_23,False,350,25.0,14.0,704,576,val
+shop_lifter_n_23_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_23_1.mp4,0,normal,normal_shop_lifter_n_23,True,350,25.0,14.0,704,576,val
+shop_lifter_n_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_24.mp4,0,normal,normal_shop_lifter_n_24,False,275,25.0,11.0,704,576,train
+shop_lifter_n_24_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_24_1.mp4,0,normal,normal_shop_lifter_n_24,True,275,25.0,11.0,704,576,train
+shop_lifter_n_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_25.mp4,0,normal,normal_shop_lifter_n_25,False,400,25.0,16.0,704,576,val
+shop_lifter_n_25_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_25_1.mp4,0,normal,normal_shop_lifter_n_25,True,400,25.0,16.0,704,576,val
+shop_lifter_n_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_26.mp4,0,normal,normal_shop_lifter_n_26,False,250,25.0,10.0,704,576,train
+shop_lifter_n_26_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_26_1.mp4,0,normal,normal_shop_lifter_n_26,True,250,25.0,10.0,704,576,train
+shop_lifter_n_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_27.mp4,0,normal,normal_shop_lifter_n_27,False,200,25.0,8.0,704,576,train
+shop_lifter_n_27_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_27_1.mp4,0,normal,normal_shop_lifter_n_27,True,200,25.0,8.0,704,576,train
+shop_lifter_n_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_28.mp4,0,normal,normal_shop_lifter_n_28,False,250,25.0,10.0,704,576,train
+shop_lifter_n_28_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_28_1.mp4,0,normal,normal_shop_lifter_n_28,True,250,25.0,10.0,704,576,train
+shop_lifter_n_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_29.mp4,0,normal,normal_shop_lifter_n_29,False,275,25.0,11.0,704,576,train
+shop_lifter_n_29_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_29_1.mp4,0,normal,normal_shop_lifter_n_29,True,275,25.0,11.0,704,576,train
+shop_lifter_n_2_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_2_1.mp4,0,normal,normal_shop_lifter_n_2,True,325,25.0,13.0,704,576,train
+shop_lifter_n_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_3.mp4,0,normal,normal_shop_lifter_n_3,False,350,25.0,14.0,704,576,val
+shop_lifter_n_30.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_30.mp4,0,normal,normal_shop_lifter_n_30,False,275,25.0,11.0,704,576,val
+shop_lifter_n_30_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_30_1.mp4,0,normal,normal_shop_lifter_n_30,True,275,25.0,11.0,704,576,val
+shop_lifter_n_31.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_31.mp4,0,normal,normal_shop_lifter_n_31,False,325,25.0,13.0,704,576,test
+shop_lifter_n_31_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_31_1.mp4,0,normal,normal_shop_lifter_n_31,True,325,25.0,13.0,704,576,test
+shop_lifter_n_32.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_32.mp4,0,normal,normal_shop_lifter_n_32,False,375,25.0,15.0,704,576,train
+shop_lifter_n_32_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_32_1.mp4,0,normal,normal_shop_lifter_n_32,True,375,25.0,15.0,704,576,train
+shop_lifter_n_33.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_33.mp4,0,normal,normal_shop_lifter_n_33,False,200,25.0,8.0,704,576,test
+shop_lifter_n_33_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_33_1.mp4,0,normal,normal_shop_lifter_n_33,True,200,25.0,8.0,704,576,test
+shop_lifter_n_34.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_34.mp4,0,normal,normal_shop_lifter_n_34,False,375,25.0,15.0,704,576,test
+shop_lifter_n_34_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_34_1.mp4,0,normal,normal_shop_lifter_n_34,True,375,25.0,15.0,704,576,test
+shop_lifter_n_35.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_35.mp4,0,normal,normal_shop_lifter_n_35,False,450,25.0,18.0,704,576,test
+shop_lifter_n_35_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_35_1.mp4,0,normal,normal_shop_lifter_n_35,True,450,25.0,18.0,704,576,test
+shop_lifter_n_36.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_36.mp4,0,normal,normal_shop_lifter_n_36,False,325,25.0,13.0,704,576,val
+shop_lifter_n_36_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_36_1.mp4,0,normal,normal_shop_lifter_n_36,True,325,25.0,13.0,704,576,val
+shop_lifter_n_37.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_37.mp4,0,normal,normal_shop_lifter_n_37,False,400,25.0,16.0,704,576,train
+shop_lifter_n_37_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_37_1.mp4,0,normal,normal_shop_lifter_n_37,True,400,25.0,16.0,704,576,train
+shop_lifter_n_38.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_38.mp4,0,normal,normal_shop_lifter_n_38,False,275,25.0,11.0,704,576,train
+shop_lifter_n_38_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_38_1.mp4,0,normal,normal_shop_lifter_n_38,True,275,25.0,11.0,704,576,train
+shop_lifter_n_39.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_39.mp4,0,normal,normal_shop_lifter_n_39,False,300,25.0,12.0,704,576,train
+shop_lifter_n_39_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_39_1.mp4,0,normal,normal_shop_lifter_n_39,True,300,25.0,12.0,704,576,train
+shop_lifter_n_3_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_3_1.mp4,0,normal,normal_shop_lifter_n_3,True,350,25.0,14.0,704,576,val
+shop_lifter_n_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_4.mp4,0,normal,normal_shop_lifter_n_4,False,300,25.0,12.0,704,576,train
+shop_lifter_n_40.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_40.mp4,0,normal,normal_shop_lifter_n_40,False,575,25.0,23.0,704,576,train
+shop_lifter_n_40_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_40_1.mp4,0,normal,normal_shop_lifter_n_40,True,575,25.0,23.0,704,576,train
+shop_lifter_n_41.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_41.mp4,0,normal,normal_shop_lifter_n_41,False,400,25.0,16.0,704,576,train
+shop_lifter_n_41_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_41_1.mp4,0,normal,normal_shop_lifter_n_41,True,400,25.0,16.0,704,576,train
+shop_lifter_n_42.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_42.mp4,0,normal,normal_shop_lifter_n_42,False,500,25.0,20.0,704,576,val
+shop_lifter_n_42_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_42_1.mp4,0,normal,normal_shop_lifter_n_42,True,500,25.0,20.0,704,576,val
+shop_lifter_n_43.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_43.mp4,0,normal,normal_shop_lifter_n_43,False,325,25.0,13.0,704,576,train
+shop_lifter_n_43_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_43_1.mp4,0,normal,normal_shop_lifter_n_43,True,325,25.0,13.0,704,576,train
+shop_lifter_n_44.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_44.mp4,0,normal,normal_shop_lifter_n_44,False,900,25.0,36.0,704,576,val
+shop_lifter_n_44_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_44_1.mp4,0,normal,normal_shop_lifter_n_44,True,900,25.0,36.0,704,576,val
+shop_lifter_n_45.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_45.mp4,0,normal,normal_shop_lifter_n_45,False,500,25.0,20.0,704,576,val
+shop_lifter_n_45_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_45_1.mp4,0,normal,normal_shop_lifter_n_45,True,500,25.0,20.0,704,576,val
+shop_lifter_n_46.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_46.mp4,0,normal,normal_shop_lifter_n_46,False,375,25.0,15.0,704,576,train
+shop_lifter_n_46_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_46_1.mp4,0,normal,normal_shop_lifter_n_46,True,375,25.0,15.0,704,576,train
+shop_lifter_n_47.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_47.mp4,0,normal,normal_shop_lifter_n_47,False,525,25.0,21.0,704,576,train
+shop_lifter_n_47_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_47_1.mp4,0,normal,normal_shop_lifter_n_47,True,525,25.0,21.0,704,576,train
+shop_lifter_n_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_48.mp4,0,normal,normal_shop_lifter_n_48,False,375,25.0,15.0,704,576,train
+shop_lifter_n_48_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_48_1.mp4,0,normal,normal_shop_lifter_n_48,True,375,25.0,15.0,704,576,train
+shop_lifter_n_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_49.mp4,0,normal,normal_shop_lifter_n_49,False,400,25.0,16.0,704,576,train
+shop_lifter_n_49_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_49_1.mp4,0,normal,normal_shop_lifter_n_49,True,400,25.0,16.0,704,576,train
+shop_lifter_n_4_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_4_1.mp4,0,normal,normal_shop_lifter_n_4,True,300,25.0,12.0,704,576,train
+shop_lifter_n_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_5.mp4,0,normal,normal_shop_lifter_n_5,False,475,25.0,19.0,704,576,train
+shop_lifter_n_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_50.mp4,0,normal,normal_shop_lifter_n_50,False,525,25.0,21.0,704,576,val
+shop_lifter_n_50_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_50_1.mp4,0,normal,normal_shop_lifter_n_50,True,525,25.0,21.0,704,576,val
+shop_lifter_n_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_51.mp4,0,normal,normal_shop_lifter_n_51,False,350,25.0,14.0,704,576,train
+shop_lifter_n_51_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_51_1.mp4,0,normal,normal_shop_lifter_n_51,True,350,25.0,14.0,704,576,train
+shop_lifter_n_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_52.mp4,0,normal,normal_shop_lifter_n_52,False,475,25.0,19.0,704,576,train
+shop_lifter_n_52_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_52_1.mp4,0,normal,normal_shop_lifter_n_52,True,475,25.0,19.0,704,576,train
+shop_lifter_n_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_53.mp4,0,normal,normal_shop_lifter_n_53,False,375,25.0,15.0,704,576,train
+shop_lifter_n_53_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_53_1.mp4,0,normal,normal_shop_lifter_n_53,True,375,25.0,15.0,704,576,train
+shop_lifter_n_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_54.mp4,0,normal,normal_shop_lifter_n_54,False,350,25.0,14.0,704,576,train
+shop_lifter_n_54_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_54_1.mp4,0,normal,normal_shop_lifter_n_54,True,350,25.0,14.0,704,576,train
+shop_lifter_n_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_55.mp4,0,normal,normal_shop_lifter_n_55,False,325,25.0,13.0,704,576,test
+shop_lifter_n_55_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_55_1.mp4,0,normal,normal_shop_lifter_n_55,True,325,25.0,13.0,704,576,test
+shop_lifter_n_56.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_56.mp4,0,normal,normal_shop_lifter_n_56,False,325,25.0,13.0,704,576,train
+shop_lifter_n_56_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_56_1.mp4,0,normal,normal_shop_lifter_n_56,True,325,25.0,13.0,704,576,train
+shop_lifter_n_57.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_57.mp4,0,normal,normal_shop_lifter_n_57,False,250,25.0,10.0,704,576,train
+shop_lifter_n_57_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_57_1.mp4,0,normal,normal_shop_lifter_n_57,True,250,25.0,10.0,704,576,train
+shop_lifter_n_58.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_58.mp4,0,normal,normal_shop_lifter_n_58,False,275,25.0,11.0,704,576,test
+shop_lifter_n_58_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_58_1.mp4,0,normal,normal_shop_lifter_n_58,True,275,25.0,11.0,704,576,test
+shop_lifter_n_59.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_59.mp4,0,normal,normal_shop_lifter_n_59,False,200,25.0,8.0,704,576,train
+shop_lifter_n_59_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_59_1.mp4,0,normal,normal_shop_lifter_n_59,True,200,25.0,8.0,704,576,train
+shop_lifter_n_5_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_5_1.mp4,0,normal,normal_shop_lifter_n_5,True,475,25.0,19.0,704,576,train
+shop_lifter_n_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_6.mp4,0,normal,normal_shop_lifter_n_6,False,400,25.0,16.0,704,576,val
+shop_lifter_n_60.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_60.mp4,0,normal,normal_shop_lifter_n_60,False,200,25.0,8.0,704,576,val
+shop_lifter_n_60_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_60_1.mp4,0,normal,normal_shop_lifter_n_60,True,200,25.0,8.0,704,576,val
+shop_lifter_n_61.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_61.mp4,0,normal,normal_shop_lifter_n_61,False,275,25.0,11.0,704,576,train
+shop_lifter_n_61_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_61_1.mp4,0,normal,normal_shop_lifter_n_61,True,275,25.0,11.0,704,576,train
+shop_lifter_n_62.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_62.mp4,0,normal,normal_shop_lifter_n_62,False,375,25.0,15.0,704,576,train
+shop_lifter_n_62_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_62_1.mp4,0,normal,normal_shop_lifter_n_62,True,375,25.0,15.0,704,576,train
+shop_lifter_n_63.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_63.mp4,0,normal,normal_shop_lifter_n_63,False,350,25.0,14.0,704,576,train
+shop_lifter_n_63_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_63_1.mp4,0,normal,normal_shop_lifter_n_63,True,350,25.0,14.0,704,576,train
+shop_lifter_n_64.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_64.mp4,0,normal,normal_shop_lifter_n_64,False,300,25.0,12.0,704,576,train
+shop_lifter_n_64_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_64_1.mp4,0,normal,normal_shop_lifter_n_64,True,300,25.0,12.0,704,576,train
+shop_lifter_n_65.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_65.mp4,0,normal,normal_shop_lifter_n_65,False,350,25.0,14.0,704,576,train
+shop_lifter_n_65_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_65_1.mp4,0,normal,normal_shop_lifter_n_65,True,350,25.0,14.0,704,576,train
+shop_lifter_n_66.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_66.mp4,0,normal,normal_shop_lifter_n_66,False,625,25.0,25.0,704,576,val
+shop_lifter_n_66_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_66_1.mp4,0,normal,normal_shop_lifter_n_66,True,625,25.0,25.0,704,576,val
+shop_lifter_n_67.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_67.mp4,0,normal,normal_shop_lifter_n_67,False,425,25.0,17.0,704,576,train
+shop_lifter_n_67_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_67_1.mp4,0,normal,normal_shop_lifter_n_67,True,425,25.0,17.0,704,576,train
+shop_lifter_n_68.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_68.mp4,0,normal,normal_shop_lifter_n_68,False,450,25.0,18.0,704,576,test
+shop_lifter_n_68_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_68_1.mp4,0,normal,normal_shop_lifter_n_68,True,450,25.0,18.0,704,576,test
+shop_lifter_n_69.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_69.mp4,0,normal,normal_shop_lifter_n_69,False,350,25.0,14.0,704,576,train
+shop_lifter_n_69_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_69_1.mp4,0,normal,normal_shop_lifter_n_69,True,350,25.0,14.0,704,576,train
+shop_lifter_n_6_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_6_1.mp4,0,normal,normal_shop_lifter_n_6,True,400,25.0,16.0,704,576,val
+shop_lifter_n_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_7.mp4,0,normal,normal_shop_lifter_n_7,False,450,25.0,18.0,704,576,train
+shop_lifter_n_70.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_70.mp4,0,normal,normal_shop_lifter_n_70,False,375,25.0,15.0,704,576,train
+shop_lifter_n_70_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_70_1.mp4,0,normal,normal_shop_lifter_n_70,True,375,25.0,15.0,704,576,train
+shop_lifter_n_71.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_71.mp4,0,normal,normal_shop_lifter_n_71,False,400,25.0,16.0,704,576,train
+shop_lifter_n_71_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_71_1.mp4,0,normal,normal_shop_lifter_n_71,True,400,25.0,16.0,704,576,train
+shop_lifter_n_72.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_72.mp4,0,normal,normal_shop_lifter_n_72,False,450,25.0,18.0,704,576,train
+shop_lifter_n_72_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_72_1.mp4,0,normal,normal_shop_lifter_n_72,True,450,25.0,18.0,704,576,train
+shop_lifter_n_73.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_73.mp4,0,normal,normal_shop_lifter_n_73,False,425,25.0,17.0,704,576,train
+shop_lifter_n_73_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_73_1.mp4,0,normal,normal_shop_lifter_n_73,True,425,25.0,17.0,704,576,train
+shop_lifter_n_74.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_74.mp4,0,normal,normal_shop_lifter_n_74,False,325,25.0,13.0,704,576,test
+shop_lifter_n_74_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_74_1.mp4,0,normal,normal_shop_lifter_n_74,True,325,25.0,13.0,704,576,test
+shop_lifter_n_75.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_75.mp4,0,normal,normal_shop_lifter_n_75,False,400,25.0,16.0,704,576,train
+shop_lifter_n_75_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_75_1.mp4,0,normal,normal_shop_lifter_n_75,True,400,25.0,16.0,704,576,train
+shop_lifter_n_76.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_76.mp4,0,normal,normal_shop_lifter_n_76,False,400,25.0,16.0,704,576,train
+shop_lifter_n_76_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_76_1.mp4,0,normal,normal_shop_lifter_n_76,True,400,25.0,16.0,704,576,train
+shop_lifter_n_77.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_77.mp4,0,normal,normal_shop_lifter_n_77,False,500,25.0,20.0,704,576,train
+shop_lifter_n_77_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_77_1.mp4,0,normal,normal_shop_lifter_n_77,True,500,25.0,20.0,704,576,train
+shop_lifter_n_78.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_78.mp4,0,normal,normal_shop_lifter_n_78,False,450,25.0,18.0,704,576,train
+shop_lifter_n_78_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_78_1.mp4,0,normal,normal_shop_lifter_n_78,True,450,25.0,18.0,704,576,train
+shop_lifter_n_79.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_79.mp4,0,normal,normal_shop_lifter_n_79,False,450,25.0,18.0,704,576,test
+shop_lifter_n_79_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_79_1.mp4,0,normal,normal_shop_lifter_n_79,True,450,25.0,18.0,704,576,test
+shop_lifter_n_7_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_7_1.mp4,0,normal,normal_shop_lifter_n_7,True,450,25.0,18.0,704,576,train
+shop_lifter_n_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_8.mp4,0,normal,normal_shop_lifter_n_8,False,375,25.0,15.0,704,576,train
+shop_lifter_n_80.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_80.mp4,0,normal,normal_shop_lifter_n_80,False,475,25.0,19.0,704,576,val
+shop_lifter_n_80_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_80_1.mp4,0,normal,normal_shop_lifter_n_80,True,475,25.0,19.0,704,576,val
+shop_lifter_n_81.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_81.mp4,0,normal,normal_shop_lifter_n_81,False,450,25.0,18.0,704,576,val
+shop_lifter_n_81_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_81_1.mp4,0,normal,normal_shop_lifter_n_81,True,450,25.0,18.0,704,576,val
+shop_lifter_n_82.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_82.mp4,0,normal,normal_shop_lifter_n_82,False,300,25.0,12.0,704,576,test
+shop_lifter_n_82_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_82_1.mp4,0,normal,normal_shop_lifter_n_82,True,300,25.0,12.0,704,576,test
+shop_lifter_n_83.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_83.mp4,0,normal,normal_shop_lifter_n_83,False,350,25.0,14.0,704,576,test
+shop_lifter_n_83_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_83_1.mp4,0,normal,normal_shop_lifter_n_83,True,350,25.0,14.0,704,576,test
+shop_lifter_n_84.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_84.mp4,0,normal,normal_shop_lifter_n_84,False,225,25.0,9.0,704,576,train
+shop_lifter_n_84_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_84_1.mp4,0,normal,normal_shop_lifter_n_84,True,225,25.0,9.0,704,576,train
+shop_lifter_n_85.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_85.mp4,0,normal,normal_shop_lifter_n_85,False,300,25.0,12.0,704,576,train
+shop_lifter_n_85_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_85_1.mp4,0,normal,normal_shop_lifter_n_85,True,300,25.0,12.0,704,576,train
+shop_lifter_n_86.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_86.mp4,0,normal,normal_shop_lifter_n_86,False,300,25.0,12.0,704,576,train
+shop_lifter_n_86_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_86_1.mp4,0,normal,normal_shop_lifter_n_86,True,300,25.0,12.0,704,576,train
+shop_lifter_n_87.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_87.mp4,0,normal,normal_shop_lifter_n_87,False,250,25.0,10.0,704,576,train
+shop_lifter_n_87_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_87_1.mp4,0,normal,normal_shop_lifter_n_87,True,250,25.0,10.0,704,576,train
+shop_lifter_n_88.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_88.mp4,0,normal,normal_shop_lifter_n_88,False,275,25.0,11.0,704,576,test
+shop_lifter_n_88_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_88_1.mp4,0,normal,normal_shop_lifter_n_88,True,275,25.0,11.0,704,576,test
+shop_lifter_n_89.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_89.mp4,0,normal,normal_shop_lifter_n_89,False,225,25.0,9.0,704,576,train
+shop_lifter_n_89_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_89_1.mp4,0,normal,normal_shop_lifter_n_89,True,225,25.0,9.0,704,576,train
+shop_lifter_n_8_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_8_1.mp4,0,normal,normal_shop_lifter_n_8,True,375,25.0,15.0,704,576,train
+shop_lifter_n_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_9.mp4,0,normal,normal_shop_lifter_n_9,False,325,25.0,13.0,704,576,train
+shop_lifter_n_90.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_90.mp4,0,normal,normal_shop_lifter_n_90,False,225,25.0,9.0,704,576,test
+shop_lifter_n_90_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_90_1.mp4,0,normal,normal_shop_lifter_n_90,True,225,25.0,9.0,704,576,test
+shop_lifter_n_91.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_91.mp4,0,normal,normal_shop_lifter_n_91,False,275,25.0,11.0,704,576,test
+shop_lifter_n_91_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_91_1.mp4,0,normal,normal_shop_lifter_n_91,True,275,25.0,11.0,704,576,test
+shop_lifter_n_92.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_92.mp4,0,normal,normal_shop_lifter_n_92,False,425,25.0,17.0,704,576,train
+shop_lifter_n_92_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_92_1.mp4,0,normal,normal_shop_lifter_n_92,True,425,25.0,17.0,704,576,train
+shop_lifter_n_93.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_93.mp4,0,normal,normal_shop_lifter_n_93,False,250,25.0,10.0,704,576,val
+shop_lifter_n_93_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_93_1.mp4,0,normal,normal_shop_lifter_n_93,True,250,25.0,10.0,704,576,val
+shop_lifter_n_94.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_94.mp4,0,normal,normal_shop_lifter_n_94,False,300,25.0,12.0,704,576,train
+shop_lifter_n_94_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_94_1.mp4,0,normal,normal_shop_lifter_n_94,True,300,25.0,12.0,704,576,train
+shop_lifter_n_95.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_95.mp4,0,normal,normal_shop_lifter_n_95,False,275,25.0,11.0,704,576,train
+shop_lifter_n_95_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_95_1.mp4,0,normal,normal_shop_lifter_n_95,True,275,25.0,11.0,704,576,train
+shop_lifter_n_96.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_96.mp4,0,normal,normal_shop_lifter_n_96,False,250,25.0,10.0,704,576,val
+shop_lifter_n_96_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_96_1.mp4,0,normal,normal_shop_lifter_n_96,True,250,25.0,10.0,704,576,val
+shop_lifter_n_97.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_97.mp4,0,normal,normal_shop_lifter_n_97,False,375,25.0,15.0,704,576,train
+shop_lifter_n_97_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_97_1.mp4,0,normal,normal_shop_lifter_n_97,True,375,25.0,15.0,704,576,train
+shop_lifter_n_98.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_98.mp4,0,normal,normal_shop_lifter_n_98,False,275,25.0,11.0,704,576,train
+shop_lifter_n_98_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_98_1.mp4,0,normal,normal_shop_lifter_n_98,True,275,25.0,11.0,704,576,train
+shop_lifter_n_99.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_99.mp4,0,normal,normal_shop_lifter_n_99,False,400,25.0,16.0,704,576,train
+shop_lifter_n_99_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_99_1.mp4,0,normal,normal_shop_lifter_n_99,True,400,25.0,16.0,704,576,train
+shop_lifter_n_9_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/shop_lifter_n_9_1.mp4,0,normal,normal_shop_lifter_n_9,True,325,25.0,13.0,704,576,train
+videossssstttsss_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_48.mp4,0,normal,normal_videossssstttsss_48,False,175,25.0,7.0,704,576,train
+videossssstttsss_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_49.mp4,0,normal,normal_videossssstttsss_49,False,225,25.0,9.0,704,576,train
+videossssstttsss_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_50.mp4,0,normal,normal_videossssstttsss_50,False,325,25.0,13.0,704,576,val
+videossssstttsss_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_51.mp4,0,normal,normal_videossssstttsss_51,False,350,25.0,14.0,704,576,train
+videossssstttsss_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_52.mp4,0,normal,normal_videossssstttsss_52,False,350,25.0,14.0,704,576,train
+videossssstttsss_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_53.mp4,0,normal,normal_videossssstttsss_53,False,250,25.0,10.0,704,576,train
+videossssstttsss_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_54.mp4,0,normal,normal_videossssstttsss_54,False,275,25.0,11.0,704,576,train
+videossssstttsss_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_55.mp4,0,normal,normal_videossssstttsss_55,False,425,25.0,17.0,704,576,train
+videossssstttsss_56.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videossssstttsss_56.mp4,0,normal,normal_videossssstttsss_56,False,375,25.0,15.0,704,576,train
+videppppsss_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_0.mp4,0,normal,normal_videppppsss_0,False,472,24.83,19.01,704,576,train
+videppppsss_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_1.mp4,0,normal,normal_videppppsss_1,False,274,24.83,11.04,704,576,test
+videppppsss_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_10.mp4,0,normal,normal_videppppsss_10,False,373,24.83,15.02,704,576,train
+videppppsss_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_11.mp4,0,normal,normal_videppppsss_11,False,348,24.83,14.02,704,576,test
+videppppsss_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_12.mp4,0,normal,normal_videppppsss_12,False,398,24.83,16.03,704,576,train
+videppppsss_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_13.mp4,0,normal,normal_videppppsss_13,False,298,24.83,12.0,704,576,val
+videppppsss_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_14.mp4,0,normal,normal_videppppsss_14,False,249,24.83,10.03,704,576,train
+videppppsss_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_15.mp4,0,normal,normal_videppppsss_15,False,423,24.83,17.04,704,576,test
+videppppsss_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_16.mp4,0,normal,normal_videppppsss_16,False,373,24.83,15.02,704,576,train
+videppppsss_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_17.mp4,0,normal,normal_videppppsss_17,False,373,24.83,15.02,704,576,train
+videppppsss_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_18.mp4,0,normal,normal_videppppsss_18,False,274,24.83,11.04,704,576,train
+videppppsss_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_19.mp4,0,normal,normal_videppppsss_19,False,323,24.83,13.01,704,576,val
+videppppsss_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_2.mp4,0,normal,normal_videppppsss_2,False,423,24.83,17.04,704,576,train
+videppppsss_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_20.mp4,0,normal,normal_videppppsss_20,False,398,24.83,16.03,704,576,val
+videppppsss_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_21.mp4,0,normal,normal_videppppsss_21,False,323,24.83,13.01,704,576,train
+videppppsss_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_22.mp4,0,normal,normal_videppppsss_22,False,398,24.83,16.03,704,576,train
+videppppsss_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_23.mp4,0,normal,normal_videppppsss_23,False,348,24.83,14.02,704,576,train
+videppppsss_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_24.mp4,0,normal,normal_videppppsss_24,False,298,24.83,12.0,704,576,val
+videppppsss_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_25.mp4,0,normal,normal_videppppsss_25,False,348,24.83,14.02,704,576,val
+videppppsss_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_26.mp4,0,normal,normal_videppppsss_26,False,373,24.83,15.02,704,576,test
+videppppsss_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_27.mp4,0,normal,normal_videppppsss_27,False,373,24.83,15.02,704,576,test
+videppppsss_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_28.mp4,0,normal,normal_videppppsss_28,False,373,24.83,15.02,704,576,train
+videppppsss_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_29.mp4,0,normal,normal_videppppsss_29,False,323,24.83,13.01,704,576,test
+videppppsss_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_3.mp4,0,normal,normal_videppppsss_3,False,249,24.83,10.03,704,576,train
+videppppsss_30.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_30.mp4,0,normal,normal_videppppsss_30,False,249,24.83,10.03,704,576,test
+videppppsss_31.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_31.mp4,0,normal,normal_videppppsss_31,False,274,24.83,11.04,704,576,test
+videppppsss_32.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_32.mp4,0,normal,normal_videppppsss_32,False,274,24.83,11.04,704,576,train
+videppppsss_33.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_33.mp4,0,normal,normal_videppppsss_33,False,249,24.83,10.03,704,576,train
+videppppsss_34.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_34.mp4,0,normal,normal_videppppsss_34,False,199,24.83,8.01,704,576,train
+videppppsss_35.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_35.mp4,0,normal,normal_videppppsss_35,False,373,24.83,15.02,704,576,test
+videppppsss_36.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_36.mp4,0,normal,normal_videppppsss_36,False,298,24.83,12.0,704,576,test
+videppppsss_37.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_37.mp4,0,normal,normal_videppppsss_37,False,596,24.83,24.0,704,576,val
+videppppsss_38.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_38.mp4,0,normal,normal_videppppsss_38,False,249,24.83,10.03,704,576,train
+videppppsss_39.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_39.mp4,0,normal,normal_videppppsss_39,False,274,24.83,11.04,704,576,test
+videppppsss_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_4.mp4,0,normal,normal_videppppsss_4,False,274,24.83,11.04,704,576,test
+videppppsss_40.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_40.mp4,0,normal,normal_videppppsss_40,False,373,24.83,15.02,704,576,val
+videppppsss_41.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_41.mp4,0,normal,normal_videppppsss_41,False,323,24.83,13.01,704,576,train
+videppppsss_42.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_42.mp4,0,normal,normal_videppppsss_42,False,373,24.83,15.02,704,576,train
+videppppsss_43.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_43.mp4,0,normal,normal_videppppsss_43,False,274,24.83,11.04,704,576,train
+videppppsss_44.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_44.mp4,0,normal,normal_videppppsss_44,False,249,24.83,10.03,704,576,test
+videppppsss_45.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_45.mp4,0,normal,normal_videppppsss_45,False,447,24.83,18.0,704,576,train
+videppppsss_46.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_46.mp4,0,normal,normal_videppppsss_46,False,398,24.83,16.03,704,576,train
+videppppsss_47.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_47.mp4,0,normal,normal_videppppsss_47,False,348,24.83,14.02,704,576,train
+videppppsss_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_48.mp4,0,normal,normal_videppppsss_48,False,323,24.83,13.01,704,576,train
+videppppsss_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_49.mp4,0,normal,normal_videppppsss_49,False,298,24.83,12.0,704,576,val
+videppppsss_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_5.mp4,0,normal,normal_videppppsss_5,False,398,24.83,16.03,704,576,test
+videppppsss_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_50.mp4,0,normal,normal_videppppsss_50,False,398,24.83,16.03,704,576,train
+videppppsss_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_51.mp4,0,normal,normal_videppppsss_51,False,373,24.83,15.02,704,576,train
+videppppsss_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_52.mp4,0,normal,normal_videppppsss_52,False,423,24.83,17.04,704,576,train
+videppppsss_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_53.mp4,0,normal,normal_videppppsss_53,False,373,24.83,15.02,704,576,train
+videppppsss_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_54.mp4,0,normal,normal_videppppsss_54,False,348,24.83,14.02,704,576,train
+videppppsss_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_55.mp4,0,normal,normal_videppppsss_55,False,398,24.83,16.03,704,576,train
+videppppsss_56.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_56.mp4,0,normal,normal_videppppsss_56,False,348,24.83,14.02,704,576,train
+videppppsss_57.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_57.mp4,0,normal,normal_videppppsss_57,False,373,24.83,15.02,704,576,train
+videppppsss_58.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_58.mp4,0,normal,normal_videppppsss_58,False,323,24.83,13.01,704,576,train
+videppppsss_59.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_59.mp4,0,normal,normal_videppppsss_59,False,323,24.83,13.01,704,576,train
+videppppsss_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_6.mp4,0,normal,normal_videppppsss_6,False,373,24.83,15.02,704,576,train
+videppppsss_60.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_60.mp4,0,normal,normal_videppppsss_60,False,447,24.83,18.0,704,576,val
+videppppsss_61.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_61.mp4,0,normal,normal_videppppsss_61,False,174,24.83,7.01,704,576,train
+videppppsss_62.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_62.mp4,0,normal,normal_videppppsss_62,False,323,24.83,13.01,704,576,train
+videppppsss_63.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_63.mp4,0,normal,normal_videppppsss_63,False,224,24.83,9.02,704,576,train
+videppppsss_64.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_64.mp4,0,normal,normal_videppppsss_64,False,224,24.83,9.02,704,576,train
+videppppsss_65.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_65.mp4,0,normal,normal_videppppsss_65,False,298,24.83,12.0,704,576,val
+videppppsss_66.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_66.mp4,0,normal,normal_videppppsss_66,False,323,24.83,13.01,704,576,train
+videppppsss_67.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_67.mp4,0,normal,normal_videppppsss_67,False,249,24.83,10.03,704,576,train
+videppppsss_68.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_68.mp4,0,normal,normal_videppppsss_68,False,249,24.83,10.03,704,576,train
+videppppsss_69.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_69.mp4,0,normal,normal_videppppsss_69,False,224,24.83,9.02,704,576,train
+videppppsss_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_7.mp4,0,normal,normal_videppppsss_7,False,373,24.83,15.02,704,576,test
+videppppsss_70.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_70.mp4,0,normal,normal_videppppsss_70,False,373,24.83,15.02,704,576,train
+videppppsss_71.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_71.mp4,0,normal,normal_videppppsss_71,False,249,24.83,10.03,704,576,train
+videppppsss_72.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_72.mp4,0,normal,normal_videppppsss_72,False,348,24.83,14.02,704,576,val
+videppppsss_73.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_73.mp4,0,normal,normal_videppppsss_73,False,249,24.83,10.03,704,576,train
+videppppsss_74.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_74.mp4,0,normal,normal_videppppsss_74,False,298,24.83,12.0,704,576,train
+videppppsss_75.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_75.mp4,0,normal,normal_videppppsss_75,False,348,24.83,14.02,704,576,train
+videppppsss_76.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_76.mp4,0,normal,normal_videppppsss_76,False,323,24.83,13.01,704,576,train
+videppppsss_77.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_77.mp4,0,normal,normal_videppppsss_77,False,398,24.83,16.03,704,576,train
+videppppsss_78.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_78.mp4,0,normal,normal_videppppsss_78,False,298,24.83,12.0,704,576,train
+videppppsss_79.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_79.mp4,0,normal,normal_videppppsss_79,False,348,24.83,14.02,704,576,train
+videppppsss_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_8.mp4,0,normal,normal_videppppsss_8,False,249,24.83,10.03,704,576,test
+videppppsss_80.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_80.mp4,0,normal,normal_videppppsss_80,False,323,24.83,13.01,704,576,train
+videppppsss_81.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_81.mp4,0,normal,normal_videppppsss_81,False,348,24.83,14.02,704,576,test
+videppppsss_82.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_82.mp4,0,normal,normal_videppppsss_82,False,398,24.83,16.03,704,576,train
+videppppsss_83.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_83.mp4,0,normal,normal_videppppsss_83,False,348,24.83,14.02,704,576,train
+videppppsss_84.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_84.mp4,0,normal,normal_videppppsss_84,False,298,24.83,12.0,704,576,train
+videppppsss_85.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_85.mp4,0,normal,normal_videppppsss_85,False,249,24.83,10.03,704,576,train
+videppppsss_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/non shop lifters/videppppsss_9.mp4,0,normal,normal_videppppsss_9,False,249,24.83,10.03,704,576,test
+shop_lifter_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_0.mp4,1,shoplifting,shoplifting_shop_lifter_0,False,322,24.75,13.01,704,576,train
+shop_lifter_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_1.mp4,1,shoplifting,shoplifting_shop_lifter_1,False,223,24.75,9.01,704,576,train
+shop_lifter_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_10.mp4,1,shoplifting,shoplifting_shop_lifter_10,False,347,24.75,14.02,704,576,train
+shop_lifter_100.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_100.mp4,1,shoplifting,shoplifting_shop_lifter_100,False,350,25.0,14.0,704,576,train
+shop_lifter_101.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_101.mp4,1,shoplifting,shoplifting_shop_lifter_101,False,375,25.0,15.0,704,576,train
+shop_lifter_102.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_102.mp4,1,shoplifting,shoplifting_shop_lifter_102,False,475,25.0,19.0,704,576,train
+shop_lifter_103.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_103.mp4,1,shoplifting,shoplifting_shop_lifter_103,False,425,25.0,17.0,704,576,train
+shop_lifter_104.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_104.mp4,1,shoplifting,shoplifting_shop_lifter_104,False,350,25.0,14.0,704,576,test
+shop_lifter_105.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_105.mp4,1,shoplifting,shoplifting_shop_lifter_105,False,450,25.0,18.0,704,576,train
+shop_lifter_106.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_106.mp4,1,shoplifting,shoplifting_shop_lifter_106,False,375,25.0,15.0,704,576,train
+shop_lifter_107.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_107.mp4,1,shoplifting,shoplifting_shop_lifter_107,False,400,25.0,16.0,704,576,val
+shop_lifter_108.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_108.mp4,1,shoplifting,shoplifting_shop_lifter_108,False,375,25.0,15.0,704,576,train
+shop_lifter_109.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_109.mp4,1,shoplifting,shoplifting_shop_lifter_109,False,375,25.0,15.0,704,576,train
+shop_lifter_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_11.mp4,1,shoplifting,shoplifting_shop_lifter_11,False,372,24.75,15.03,704,576,train
+shop_lifter_110.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_110.mp4,1,shoplifting,shoplifting_shop_lifter_110,False,525,25.0,21.0,704,576,train
+shop_lifter_111.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_111.mp4,1,shoplifting,shoplifting_shop_lifter_111,False,475,25.0,19.0,704,576,train
+shop_lifter_112.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_112.mp4,1,shoplifting,shoplifting_shop_lifter_112,False,375,25.0,15.0,704,576,train
+shop_lifter_113.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_113.mp4,1,shoplifting,shoplifting_shop_lifter_113,False,325,25.0,13.0,704,576,train
+shop_lifter_114.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_114.mp4,1,shoplifting,shoplifting_shop_lifter_114,False,350,25.0,14.0,704,576,train
+shop_lifter_115.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_115.mp4,1,shoplifting,shoplifting_shop_lifter_115,False,400,25.0,16.0,704,576,train
+shop_lifter_116.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_116.mp4,1,shoplifting,shoplifting_shop_lifter_116,False,375,25.0,15.0,704,576,train
+shop_lifter_117.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_117.mp4,1,shoplifting,shoplifting_shop_lifter_117,False,475,25.0,19.0,704,576,train
+shop_lifter_118.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_118.mp4,1,shoplifting,shoplifting_shop_lifter_118,False,500,25.0,20.0,704,576,train
+shop_lifter_119.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_119.mp4,1,shoplifting,shoplifting_shop_lifter_119,False,325,25.0,13.0,704,576,test
+shop_lifter_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_12.mp4,1,shoplifting,shoplifting_shop_lifter_12,False,372,24.75,15.03,704,576,train
+shop_lifter_120.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_120.mp4,1,shoplifting,shoplifting_shop_lifter_120,False,475,25.0,19.0,704,576,train
+shop_lifter_121.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_121.mp4,1,shoplifting,shoplifting_shop_lifter_121,False,400,25.0,16.0,704,576,train
+shop_lifter_122.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_122.mp4,1,shoplifting,shoplifting_shop_lifter_122,False,400,25.0,16.0,704,576,train
+shop_lifter_123.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_123.mp4,1,shoplifting,shoplifting_shop_lifter_123,False,400,25.0,16.0,704,576,val
+shop_lifter_124.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_124.mp4,1,shoplifting,shoplifting_shop_lifter_124,False,375,25.0,15.0,704,576,train
+shop_lifter_125.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_125.mp4,1,shoplifting,shoplifting_shop_lifter_125,False,350,25.0,14.0,704,576,train
+shop_lifter_126.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_126.mp4,1,shoplifting,shoplifting_shop_lifter_126,False,350,25.0,14.0,704,576,train
+shop_lifter_127.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_127.mp4,1,shoplifting,shoplifting_shop_lifter_127,False,375,25.0,15.0,704,576,test
+shop_lifter_128.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_128.mp4,1,shoplifting,shoplifting_shop_lifter_128,False,325,25.0,13.0,704,576,test
+shop_lifter_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_13.mp4,1,shoplifting,shoplifting_shop_lifter_13,False,322,24.75,13.01,704,576,train
+shop_lifter_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_14.mp4,1,shoplifting,shoplifting_shop_lifter_14,False,421,24.75,17.01,704,576,train
+shop_lifter_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_15.mp4,1,shoplifting,shoplifting_shop_lifter_15,False,421,24.75,17.01,704,576,train
+shop_lifter_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_16.mp4,1,shoplifting,shoplifting_shop_lifter_16,False,495,24.75,20.0,704,576,train
+shop_lifter_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_17.mp4,1,shoplifting,shoplifting_shop_lifter_17,False,396,24.75,16.0,704,576,train
+shop_lifter_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_18.mp4,1,shoplifting,shoplifting_shop_lifter_18,False,396,24.75,16.0,704,576,val
+shop_lifter_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_19.mp4,1,shoplifting,shoplifting_shop_lifter_19,False,372,24.75,15.03,704,576,train
+shop_lifter_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_2.mp4,1,shoplifting,shoplifting_shop_lifter_2,False,174,24.75,7.03,704,576,test
+shop_lifter_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_20.mp4,1,shoplifting,shoplifting_shop_lifter_20,False,446,24.75,18.02,704,576,train
+shop_lifter_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_21.mp4,1,shoplifting,shoplifting_shop_lifter_21,False,396,24.75,16.0,704,576,val
+shop_lifter_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_22.mp4,1,shoplifting,shoplifting_shop_lifter_22,False,396,24.75,16.0,704,576,train
+shop_lifter_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_23.mp4,1,shoplifting,shoplifting_shop_lifter_23,False,396,24.75,16.0,704,576,train
+shop_lifter_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_24.mp4,1,shoplifting,shoplifting_shop_lifter_24,False,396,24.75,16.0,704,576,train
+shop_lifter_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_25.mp4,1,shoplifting,shoplifting_shop_lifter_25,False,372,24.75,15.03,704,576,val
+shop_lifter_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_26.mp4,1,shoplifting,shoplifting_shop_lifter_26,False,396,24.75,16.0,704,576,train
+shop_lifter_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_27.mp4,1,shoplifting,shoplifting_shop_lifter_27,False,471,24.75,19.03,704,576,train
+shop_lifter_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_28.mp4,1,shoplifting,shoplifting_shop_lifter_28,False,372,24.75,15.03,704,576,train
+shop_lifter_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_29.mp4,1,shoplifting,shoplifting_shop_lifter_29,False,396,24.75,16.0,704,576,train
+shop_lifter_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_3.mp4,1,shoplifting,shoplifting_shop_lifter_3,False,198,24.75,8.0,704,576,test
+shop_lifter_30.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_30.mp4,1,shoplifting,shoplifting_shop_lifter_30,False,372,24.75,15.03,704,576,train
+shop_lifter_31.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_31.mp4,1,shoplifting,shoplifting_shop_lifter_31,False,396,24.75,16.0,704,576,test
+shop_lifter_32.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_32.mp4,1,shoplifting,shoplifting_shop_lifter_32,False,495,24.75,20.0,704,576,train
+shop_lifter_33.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_33.mp4,1,shoplifting,shoplifting_shop_lifter_33,False,372,24.75,15.03,704,576,train
+shop_lifter_34.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_34.mp4,1,shoplifting,shoplifting_shop_lifter_34,False,223,24.75,9.01,704,576,val
+shop_lifter_35.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_35.mp4,1,shoplifting,shoplifting_shop_lifter_35,False,372,24.75,15.03,704,576,train
+shop_lifter_36.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_36.mp4,1,shoplifting,shoplifting_shop_lifter_36,False,396,24.75,16.0,704,576,test
+shop_lifter_37.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_37.mp4,1,shoplifting,shoplifting_shop_lifter_37,False,495,24.75,20.0,704,576,train
+shop_lifter_38.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_38.mp4,1,shoplifting,shoplifting_shop_lifter_38,False,495,24.75,20.0,704,576,train
+shop_lifter_39.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_39.mp4,1,shoplifting,shoplifting_shop_lifter_39,False,570,24.75,23.03,704,576,val
+shop_lifter_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_4.mp4,1,shoplifting,shoplifting_shop_lifter_4,False,174,24.75,7.03,704,576,train
+shop_lifter_40.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_40.mp4,1,shoplifting,shoplifting_shop_lifter_40,False,396,24.75,16.0,704,576,train
+shop_lifter_41.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_41.mp4,1,shoplifting,shoplifting_shop_lifter_41,False,396,24.75,16.0,704,576,train
+shop_lifter_42.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_42.mp4,1,shoplifting,shoplifting_shop_lifter_42,False,421,24.75,17.01,704,576,train
+shop_lifter_43.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_43.mp4,1,shoplifting,shoplifting_shop_lifter_43,False,421,24.75,17.01,704,576,train
+shop_lifter_44.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_44.mp4,1,shoplifting,shoplifting_shop_lifter_44,False,396,24.75,16.0,704,576,train
+shop_lifter_45.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_45.mp4,1,shoplifting,shoplifting_shop_lifter_45,False,396,24.75,16.0,704,576,val
+shop_lifter_46.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_46.mp4,1,shoplifting,shoplifting_shop_lifter_46,False,322,24.75,13.01,704,576,train
+shop_lifter_47.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_47.mp4,1,shoplifting,shoplifting_shop_lifter_47,False,372,24.75,15.03,704,576,train
+shop_lifter_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_48.mp4,1,shoplifting,shoplifting_shop_lifter_48,False,322,24.75,13.01,704,576,train
+shop_lifter_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_49.mp4,1,shoplifting,shoplifting_shop_lifter_49,False,347,24.75,14.02,704,576,val
+shop_lifter_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_5.mp4,1,shoplifting,shoplifting_shop_lifter_5,False,446,24.75,18.02,704,576,train
+shop_lifter_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_50.mp4,1,shoplifting,shoplifting_shop_lifter_50,False,446,24.75,18.02,704,576,test
+shop_lifter_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_51.mp4,1,shoplifting,shoplifting_shop_lifter_51,False,297,24.75,12.0,704,576,train
+shop_lifter_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_52.mp4,1,shoplifting,shoplifting_shop_lifter_52,False,223,24.75,9.01,704,576,test
+shop_lifter_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_53.mp4,1,shoplifting,shoplifting_shop_lifter_53,False,372,24.75,15.03,704,576,train
+shop_lifter_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_54.mp4,1,shoplifting,shoplifting_shop_lifter_54,False,297,24.75,12.0,704,576,test
+shop_lifter_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_55.mp4,1,shoplifting,shoplifting_shop_lifter_55,False,198,24.75,8.0,704,576,val
+shop_lifter_56.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_56.mp4,1,shoplifting,shoplifting_shop_lifter_56,False,223,24.75,9.01,704,576,train
+shop_lifter_57.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_57.mp4,1,shoplifting,shoplifting_shop_lifter_57,False,198,24.75,8.0,704,576,train
+shop_lifter_58.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_58.mp4,1,shoplifting,shoplifting_shop_lifter_58,False,273,24.75,11.03,704,576,train
+shop_lifter_59.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_59.mp4,1,shoplifting,shoplifting_shop_lifter_59,False,198,24.75,8.0,704,576,train
+shop_lifter_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_6.mp4,1,shoplifting,shoplifting_shop_lifter_6,False,273,24.75,11.03,704,576,train
+shop_lifter_60.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_60.mp4,1,shoplifting,shoplifting_shop_lifter_60,False,174,24.75,7.03,704,576,train
+shop_lifter_61.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_61.mp4,1,shoplifting,shoplifting_shop_lifter_61,False,198,24.75,8.0,704,576,val
+shop_lifter_62.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_62.mp4,1,shoplifting,shoplifting_shop_lifter_62,False,174,24.75,7.03,704,576,train
+shop_lifter_63.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_63.mp4,1,shoplifting,shoplifting_shop_lifter_63,False,223,24.75,9.01,704,576,train
+shop_lifter_64.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_64.mp4,1,shoplifting,shoplifting_shop_lifter_64,False,273,24.75,11.03,704,576,train
+shop_lifter_65.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_65.mp4,1,shoplifting,shoplifting_shop_lifter_65,False,248,24.75,10.02,704,576,train
+shop_lifter_66.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_66.mp4,1,shoplifting,shoplifting_shop_lifter_66,False,273,24.75,11.03,704,576,test
+shop_lifter_67.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_67.mp4,1,shoplifting,shoplifting_shop_lifter_67,False,347,24.75,14.02,704,576,train
+shop_lifter_68.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_68.mp4,1,shoplifting,shoplifting_shop_lifter_68,False,198,24.75,8.0,704,576,train
+shop_lifter_69.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_69.mp4,1,shoplifting,shoplifting_shop_lifter_69,False,198,24.75,8.0,704,576,train
+shop_lifter_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_7.mp4,1,shoplifting,shoplifting_shop_lifter_7,False,297,24.75,12.0,704,576,val
+shop_lifter_70.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_70.mp4,1,shoplifting,shoplifting_shop_lifter_70,False,223,24.75,9.01,704,576,train
+shop_lifter_71.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_71.mp4,1,shoplifting,shoplifting_shop_lifter_71,False,248,24.75,10.02,704,576,train
+shop_lifter_72.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_72.mp4,1,shoplifting,shoplifting_shop_lifter_72,False,248,24.75,10.02,704,576,train
+shop_lifter_73.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_73.mp4,1,shoplifting,shoplifting_shop_lifter_73,False,223,24.75,9.01,704,576,train
+shop_lifter_74.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_74.mp4,1,shoplifting,shoplifting_shop_lifter_74,False,174,24.75,7.03,704,576,train
+shop_lifter_75.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_75.mp4,1,shoplifting,shoplifting_shop_lifter_75,False,248,24.75,10.02,704,576,test
+shop_lifter_76.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_76.mp4,1,shoplifting,shoplifting_shop_lifter_76,False,248,24.75,10.02,704,576,train
+shop_lifter_77.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_77.mp4,1,shoplifting,shoplifting_shop_lifter_77,False,273,24.75,11.03,704,576,train
+shop_lifter_78.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_78.mp4,1,shoplifting,shoplifting_shop_lifter_78,False,273,24.75,11.03,704,576,train
+shop_lifter_79.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_79.mp4,1,shoplifting,shoplifting_shop_lifter_79,False,273,24.75,11.03,704,576,val
+shop_lifter_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_8.mp4,1,shoplifting,shoplifting_shop_lifter_8,False,322,24.75,13.01,704,576,test
+shop_lifter_80.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_80.mp4,1,shoplifting,shoplifting_shop_lifter_80,False,223,24.75,9.01,704,576,train
+shop_lifter_81.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_81.mp4,1,shoplifting,shoplifting_shop_lifter_81,False,248,24.75,10.02,704,576,val
+shop_lifter_82.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_82.mp4,1,shoplifting,shoplifting_shop_lifter_82,False,273,24.75,11.03,704,576,train
+shop_lifter_83.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_83.mp4,1,shoplifting,shoplifting_shop_lifter_83,False,273,24.75,11.03,704,576,train
+shop_lifter_84.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_84.mp4,1,shoplifting,shoplifting_shop_lifter_84,False,248,24.75,10.02,704,576,train
+shop_lifter_85.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_85.mp4,1,shoplifting,shoplifting_shop_lifter_85,False,425,25.0,17.0,704,576,train
+shop_lifter_86.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_86.mp4,1,shoplifting,shoplifting_shop_lifter_86,False,325,25.0,13.0,704,576,test
+shop_lifter_87.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_87.mp4,1,shoplifting,shoplifting_shop_lifter_87,False,350,25.0,14.0,704,576,train
+shop_lifter_88.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_88.mp4,1,shoplifting,shoplifting_shop_lifter_88,False,350,25.0,14.0,704,576,train
+shop_lifter_89.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_89.mp4,1,shoplifting,shoplifting_shop_lifter_89,False,500,25.0,20.0,704,576,train
+shop_lifter_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_9.mp4,1,shoplifting,shoplifting_shop_lifter_9,False,297,24.75,12.0,704,576,train
+shop_lifter_90.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_90.mp4,1,shoplifting,shoplifting_shop_lifter_90,False,425,25.0,17.0,704,576,train
+shop_lifter_91.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_91.mp4,1,shoplifting,shoplifting_shop_lifter_91,False,525,25.0,21.0,704,576,val
+shop_lifter_92.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_92.mp4,1,shoplifting,shoplifting_shop_lifter_92,False,375,25.0,15.0,704,576,train
+shop_lifter_93.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_93.mp4,1,shoplifting,shoplifting_shop_lifter_93,False,375,25.0,15.0,704,576,train
+shop_lifter_94.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_94.mp4,1,shoplifting,shoplifting_shop_lifter_94,False,375,25.0,15.0,704,576,train
+shop_lifter_95.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_95.mp4,1,shoplifting,shoplifting_shop_lifter_95,False,400,25.0,16.0,704,576,train
+shop_lifter_96.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_96.mp4,1,shoplifting,shoplifting_shop_lifter_96,False,325,25.0,13.0,704,576,train
+shop_lifter_97.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_97.mp4,1,shoplifting,shoplifting_shop_lifter_97,False,425,25.0,17.0,704,576,train
+shop_lifter_98.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_98.mp4,1,shoplifting,shoplifting_shop_lifter_98,False,400,25.0,16.0,704,576,test
+shop_lifter_99.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/shop_lifter_99.mp4,1,shoplifting,shoplifting_shop_lifter_99,False,475,25.0,19.0,704,576,train
+videmmmmmmsss_100.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_100.mp4,1,shoplifting,shoplifting_videmmmmmmsss_100,False,248,24.75,10.02,704,576,val
+videmmmmmmsss_101.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_101.mp4,1,shoplifting,shoplifting_videmmmmmmsss_101,False,248,24.75,10.02,704,576,val
+videmmmmmmsss_102.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_102.mp4,1,shoplifting,shoplifting_videmmmmmmsss_102,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_85.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_85.mp4,1,shoplifting,shoplifting_videmmmmmmsss_85,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_86.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_86.mp4,1,shoplifting,shoplifting_videmmmmmmsss_86,False,198,24.75,8.0,704,576,train
+videmmmmmmsss_87.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_87.mp4,1,shoplifting,shoplifting_videmmmmmmsss_87,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_88.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_88.mp4,1,shoplifting,shoplifting_videmmmmmmsss_88,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_89.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_89.mp4,1,shoplifting,shoplifting_videmmmmmmsss_89,False,273,24.75,11.03,704,576,train
+videmmmmmmsss_90.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_90.mp4,1,shoplifting,shoplifting_videmmmmmmsss_90,False,297,24.75,12.0,704,576,train
+videmmmmmmsss_91.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_91.mp4,1,shoplifting,shoplifting_videmmmmmmsss_91,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_92.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_92.mp4,1,shoplifting,shoplifting_videmmmmmmsss_92,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_93.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_93.mp4,1,shoplifting,shoplifting_videmmmmmmsss_93,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_94.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_94.mp4,1,shoplifting,shoplifting_videmmmmmmsss_94,False,273,24.75,11.03,704,576,test
+videmmmmmmsss_95.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_95.mp4,1,shoplifting,shoplifting_videmmmmmmsss_95,False,248,24.75,10.02,704,576,train
+videmmmmmmsss_96.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_96.mp4,1,shoplifting,shoplifting_videmmmmmmsss_96,False,347,24.75,14.02,704,576,train
+videmmmmmmsss_97.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_97.mp4,1,shoplifting,shoplifting_videmmmmmmsss_97,False,223,24.75,9.01,704,576,train
+videmmmmmmsss_98.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_98.mp4,1,shoplifting,shoplifting_videmmmmmmsss_98,False,248,24.75,10.02,704,576,test
+videmmmmmmsss_99.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videmmmmmmsss_99.mp4,1,shoplifting,shoplifting_videmmmmmmsss_99,False,273,24.75,11.03,704,576,train
+videppppsss_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_0.mp4,1,shoplifting,shoplifting_videppppsss_0,False,350,25.0,14.0,704,576,train
+videppppsss_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_1.mp4,1,shoplifting,shoplifting_videppppsss_1,False,350,25.0,14.0,704,576,train
+videppppsss_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_10.mp4,1,shoplifting,shoplifting_videppppsss_10,False,250,25.0,10.0,704,576,test
+videppppsss_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_11.mp4,1,shoplifting,shoplifting_videppppsss_11,False,350,25.0,14.0,704,576,val
+videppppsss_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_12.mp4,1,shoplifting,shoplifting_videppppsss_12,False,250,25.0,10.0,704,576,train
+videppppsss_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_13.mp4,1,shoplifting,shoplifting_videppppsss_13,False,350,25.0,14.0,704,576,train
+videppppsss_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_14.mp4,1,shoplifting,shoplifting_videppppsss_14,False,275,25.0,11.0,704,576,test
+videppppsss_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_15.mp4,1,shoplifting,shoplifting_videppppsss_15,False,325,25.0,13.0,704,576,test
+videppppsss_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_16.mp4,1,shoplifting,shoplifting_videppppsss_16,False,375,25.0,15.0,704,576,train
+videppppsss_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_17.mp4,1,shoplifting,shoplifting_videppppsss_17,False,275,25.0,11.0,704,576,test
+videppppsss_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_18.mp4,1,shoplifting,shoplifting_videppppsss_18,False,500,25.0,20.0,704,576,test
+videppppsss_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_19.mp4,1,shoplifting,shoplifting_videppppsss_19,False,300,25.0,12.0,704,576,val
+videppppsss_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_2.mp4,1,shoplifting,shoplifting_videppppsss_2,False,275,25.0,11.0,704,576,train
+videppppsss_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_20.mp4,1,shoplifting,shoplifting_videppppsss_20,False,350,25.0,14.0,704,576,test
+videppppsss_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_21.mp4,1,shoplifting,shoplifting_videppppsss_21,False,350,25.0,14.0,704,576,val
+videppppsss_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_22.mp4,1,shoplifting,shoplifting_videppppsss_22,False,350,25.0,14.0,704,576,val
+videppppsss_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_23.mp4,1,shoplifting,shoplifting_videppppsss_23,False,375,25.0,15.0,704,576,train
+videppppsss_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_24.mp4,1,shoplifting,shoplifting_videppppsss_24,False,425,25.0,17.0,704,576,test
+videppppsss_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_25.mp4,1,shoplifting,shoplifting_videppppsss_25,False,300,25.0,12.0,704,576,test
+videppppsss_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_26.mp4,1,shoplifting,shoplifting_videppppsss_26,False,400,25.0,16.0,704,576,train
+videppppsss_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_27.mp4,1,shoplifting,shoplifting_videppppsss_27,False,300,25.0,12.0,704,576,train
+videppppsss_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_28.mp4,1,shoplifting,shoplifting_videppppsss_28,False,350,25.0,14.0,704,576,test
+videppppsss_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_29.mp4,1,shoplifting,shoplifting_videppppsss_29,False,400,25.0,16.0,704,576,train
+videppppsss_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_3.mp4,1,shoplifting,shoplifting_videppppsss_3,False,325,25.0,13.0,704,576,train
+videppppsss_30.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_30.mp4,1,shoplifting,shoplifting_videppppsss_30,False,350,25.0,14.0,704,576,train
+videppppsss_31.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_31.mp4,1,shoplifting,shoplifting_videppppsss_31,False,425,25.0,17.0,704,576,train
+videppppsss_32.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_32.mp4,1,shoplifting,shoplifting_videppppsss_32,False,325,25.0,13.0,704,576,train
+videppppsss_33.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_33.mp4,1,shoplifting,shoplifting_videppppsss_33,False,375,25.0,15.0,704,576,train
+videppppsss_34.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_34.mp4,1,shoplifting,shoplifting_videppppsss_34,False,400,25.0,16.0,704,576,val
+videppppsss_35.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_35.mp4,1,shoplifting,shoplifting_videppppsss_35,False,375,25.0,15.0,704,576,train
+videppppsss_36.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_36.mp4,1,shoplifting,shoplifting_videppppsss_36,False,375,25.0,15.0,704,576,train
+videppppsss_37.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_37.mp4,1,shoplifting,shoplifting_videppppsss_37,False,325,25.0,13.0,704,576,train
+videppppsss_38.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_38.mp4,1,shoplifting,shoplifting_videppppsss_38,False,425,25.0,17.0,704,576,train
+videppppsss_39.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_39.mp4,1,shoplifting,shoplifting_videppppsss_39,False,425,25.0,17.0,704,576,train
+videppppsss_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_4.mp4,1,shoplifting,shoplifting_videppppsss_4,False,275,25.0,11.0,704,576,train
+videppppsss_40.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_40.mp4,1,shoplifting,shoplifting_videppppsss_40,False,225,25.0,9.0,704,576,train
+videppppsss_41.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_41.mp4,1,shoplifting,shoplifting_videppppsss_41,False,300,25.0,12.0,704,576,test
+videppppsss_42.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_42.mp4,1,shoplifting,shoplifting_videppppsss_42,False,275,25.0,11.0,704,576,test
+videppppsss_43.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_43.mp4,1,shoplifting,shoplifting_videppppsss_43,False,275,25.0,11.0,704,576,val
+videppppsss_44.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_44.mp4,1,shoplifting,shoplifting_videppppsss_44,False,300,25.0,12.0,704,576,test
+videppppsss_45.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_45.mp4,1,shoplifting,shoplifting_videppppsss_45,False,275,25.0,11.0,704,576,test
+videppppsss_46.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_46.mp4,1,shoplifting,shoplifting_videppppsss_46,False,300,25.0,12.0,704,576,train
+videppppsss_47.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_47.mp4,1,shoplifting,shoplifting_videppppsss_47,False,225,25.0,9.0,704,576,train
+videppppsss_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_48.mp4,1,shoplifting,shoplifting_videppppsss_48,False,250,25.0,10.0,704,576,test
+videppppsss_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_49.mp4,1,shoplifting,shoplifting_videppppsss_49,False,275,25.0,11.0,704,576,train
+videppppsss_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_5.mp4,1,shoplifting,shoplifting_videppppsss_5,False,250,25.0,10.0,704,576,train
+videppppsss_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_50.mp4,1,shoplifting,shoplifting_videppppsss_50,False,200,25.0,8.0,704,576,train
+videppppsss_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_51.mp4,1,shoplifting,shoplifting_videppppsss_51,False,225,25.0,9.0,704,576,test
+videppppsss_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_52.mp4,1,shoplifting,shoplifting_videppppsss_52,False,175,25.0,7.0,704,576,val
+videppppsss_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_53.mp4,1,shoplifting,shoplifting_videppppsss_53,False,175,25.0,7.0,704,576,train
+videppppsss_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_54.mp4,1,shoplifting,shoplifting_videppppsss_54,False,175,25.0,7.0,704,576,val
+videppppsss_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_55.mp4,1,shoplifting,shoplifting_videppppsss_55,False,150,25.0,6.0,704,576,test
+videppppsss_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_6.mp4,1,shoplifting,shoplifting_videppppsss_6,False,300,25.0,12.0,704,576,val
+videppppsss_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_7.mp4,1,shoplifting,shoplifting_videppppsss_7,False,275,25.0,11.0,704,576,train
+videppppsss_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_8.mp4,1,shoplifting,shoplifting_videppppsss_8,False,375,25.0,15.0,704,576,train
+videppppsss_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videppppsss_9.mp4,1,shoplifting,shoplifting_videppppsss_9,False,300,25.0,12.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_0.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_0,False,375,25.0,15.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_1.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_1,False,350,25.0,14.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_10.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_10,False,300,25.0,12.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_11.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_11,False,325,25.0,13.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_12.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_12,False,275,25.0,11.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_13.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_13,False,250,25.0,10.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_14.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_14,False,225,25.0,9.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_15.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_15,False,200,25.0,8.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_16.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_16,False,200,25.0,8.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_17.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_17,False,225,25.0,9.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_18.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_18,False,225,25.0,9.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_19.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_19,False,325,25.0,13.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_2.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_2,False,325,25.0,13.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_20.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_20,False,250,25.0,10.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_21.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_21,False,250,25.0,10.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_22.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_22,False,175,25.0,7.0,704,576,test
+videyyyyyynnnnnnzzzzzyyyss_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_23.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_23,False,200,25.0,8.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_24.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_24,False,200,25.0,8.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_25.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_25,False,200,25.0,8.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_26.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_26,False,225,25.0,9.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_27.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_27,False,250,25.0,10.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_28.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_28,False,150,25.0,6.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_29.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_29,False,250,25.0,10.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_3.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_3,False,350,25.0,14.0,704,576,val
+videyyyyyynnnnnnzzzzzyyyss_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_4.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_4,False,350,25.0,14.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_5.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_5,False,325,25.0,13.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_6.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_6,False,300,25.0,12.0,704,576,test
+videyyyyyynnnnnnzzzzzyyyss_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_7.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_7,False,300,25.0,12.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_8.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_8,False,300,25.0,12.0,704,576,train
+videyyyyyynnnnnnzzzzzyyyss_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyynnnnnnzzzzzyyyss_9.mp4,1,shoplifting,shoplifting_videyyyyyynnnnnnzzzzzyyyss_9,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_0.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_0,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_1.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_1,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_10.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_10,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_11.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_11,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_12.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_12,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_13.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_13,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_14.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_14,False,325,25.0,13.0,704,576,val
+videyyyyyyyyyss_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_15.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_15,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_16.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_16,False,250,25.0,10.0,704,576,val
+videyyyyyyyyyss_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_17.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_17,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_18.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_18,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_19.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_19,False,225,25.0,9.0,704,576,val
+videyyyyyyyyyss_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_2.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_2,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_20.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_20,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_21.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_21,False,250,25.0,10.0,704,576,test
+videyyyyyyyyyss_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_22.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_22,False,325,25.0,13.0,704,576,val
+videyyyyyyyyyss_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_23.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_23,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_24.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_24,False,250,25.0,10.0,704,576,train
+videyyyyyyyyyss_25.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_25.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_25,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_26.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_26.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_26,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_27.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_27.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_27,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_28.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_28.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_28,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_29.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_29.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_29,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_3.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_3,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_30.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_30.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_30,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_31.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_31.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_31,False,225,25.0,9.0,704,576,val
+videyyyyyyyyyss_32.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_32.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_32,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_33.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_33.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_33,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_34.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_34.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_34,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_35.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_35.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_35,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_36.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_36.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_36,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_37.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_37.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_37,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_38.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_38.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_38,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_39.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_39.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_39,False,225,25.0,9.0,704,576,val
+videyyyyyyyyyss_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_4.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_4,False,300,25.0,12.0,704,576,val
+videyyyyyyyyyss_40.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_40.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_40,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_41.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_41.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_41,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_42.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_42.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_42,False,100,25.0,4.0,704,576,train
+videyyyyyyyyyss_43.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_43.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_43,False,200,25.0,8.0,704,576,test
+videyyyyyyyyyss_44.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_44.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_44,False,175,25.0,7.0,704,576,train
+videyyyyyyyyyss_45.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_45.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_45,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_46.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_46.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_46,False,350,25.0,14.0,704,576,train
+videyyyyyyyyyss_47.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_47.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_47,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_48.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_48.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_48,False,250,25.0,10.0,704,576,val
+videyyyyyyyyyss_49.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_49.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_49,False,250,25.0,10.0,704,576,train
+videyyyyyyyyyss_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_5.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_5,False,250,25.0,10.0,704,576,train
+videyyyyyyyyyss_50.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_50.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_50,False,250,25.0,10.0,704,576,test
+videyyyyyyyyyss_51.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_51.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_51,False,250,25.0,10.0,704,576,val
+videyyyyyyyyyss_52.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_52.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_52,False,250,25.0,10.0,704,576,train
+videyyyyyyyyyss_53.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_53.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_53,False,275,25.0,11.0,704,576,test
+videyyyyyyyyyss_54.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_54.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_54,False,225,25.0,9.0,704,576,train
+videyyyyyyyyyss_55.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_55.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_55,False,200,25.0,8.0,704,576,train
+videyyyyyyyyyss_56.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_56.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_56,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_57.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_57.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_57,False,300,25.0,12.0,704,576,val
+videyyyyyyyyyss_58.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_58.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_58,False,250,25.0,10.0,704,576,val
+videyyyyyyyyyss_59.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_59.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_59,False,300,25.0,12.0,704,576,test
+videyyyyyyyyyss_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_6.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_6,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_60.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_60.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_60,False,250,25.0,10.0,704,576,train
+videyyyyyyyyyss_61.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_61.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_61,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_62.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_62.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_62,False,300,25.0,12.0,704,576,val
+videyyyyyyyyyss_63.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_63.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_63,False,275,25.0,11.0,704,576,test
+videyyyyyyyyyss_64.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_64.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_64,False,275,25.0,11.0,704,576,train
+videyyyyyyyyyss_65.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_65.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_65,False,325,25.0,13.0,704,576,train
+videyyyyyyyyyss_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_7.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_7,False,300,25.0,12.0,704,576,train
+videyyyyyyyyyss_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_8.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_8,False,225,25.0,9.0,704,576,val
+videyyyyyyyyyss_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyyyyss_9.mp4,1,shoplifting,shoplifting_videyyyyyyyyyss_9,False,300,25.0,12.0,704,576,train
+videyyyyyyzzzzzyyyss_0.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_0.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_0,False,350,25.0,14.0,704,576,train
+videyyyyyyzzzzzyyyss_1.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_1.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_1,False,400,25.0,16.0,704,576,test
+videyyyyyyzzzzzyyyss_10.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_10.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_10,False,200,25.0,8.0,704,576,train
+videyyyyyyzzzzzyyyss_11.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_11.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_11,False,325,25.0,13.0,704,576,test
+videyyyyyyzzzzzyyyss_12.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_12.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_12,False,375,25.0,15.0,704,576,test
+videyyyyyyzzzzzyyyss_13.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_13.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_13,False,300,25.0,12.0,704,576,train
+videyyyyyyzzzzzyyyss_14.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_14.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_14,False,250,25.0,10.0,704,576,test
+videyyyyyyzzzzzyyyss_15.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_15.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_15,False,250,25.0,10.0,704,576,test
+videyyyyyyzzzzzyyyss_16.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_16.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_16,False,250,25.0,10.0,704,576,train
+videyyyyyyzzzzzyyyss_17.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_17.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_17,False,300,25.0,12.0,704,576,train
+videyyyyyyzzzzzyyyss_18.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_18.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_18,False,275,25.0,11.0,704,576,train
+videyyyyyyzzzzzyyyss_19.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_19.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_19,False,250,25.0,10.0,704,576,train
+videyyyyyyzzzzzyyyss_2.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_2.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_2,False,250,25.0,10.0,704,576,test
+videyyyyyyzzzzzyyyss_20.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_20.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_20,False,200,25.0,8.0,704,576,train
+videyyyyyyzzzzzyyyss_21.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_21.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_21,False,200,25.0,8.0,704,576,train
+videyyyyyyzzzzzyyyss_22.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_22.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_22,False,250,25.0,10.0,704,576,train
+videyyyyyyzzzzzyyyss_23.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_23.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_23,False,250,25.0,10.0,704,576,train
+videyyyyyyzzzzzyyyss_24.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_24.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_24,False,275,25.0,11.0,704,576,train
+videyyyyyyzzzzzyyyss_3.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_3.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_3,False,225,25.0,9.0,704,576,test
+videyyyyyyzzzzzyyyss_4.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_4.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_4,False,275,25.0,11.0,704,576,train
+videyyyyyyzzzzzyyyss_5.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_5.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_5,False,300,25.0,12.0,704,576,train
+videyyyyyyzzzzzyyyss_6.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_6.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_6,False,325,25.0,13.0,704,576,train
+videyyyyyyzzzzzyyyss_7.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_7.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_7,False,275,25.0,11.0,704,576,train
+videyyyyyyzzzzzyyyss_8.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_8.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_8,False,350,25.0,14.0,704,576,train
+videyyyyyyzzzzzyyyss_9.mp4,E:/Cellula_Technologies/Project3/Shop DataSet/shop lifters/videyyyyyyzzzzzyyyss_9.mp4,1,shoplifting,shoplifting_videyyyyyyzzzzzyyyss_9,False,250,25.0,10.0,704,576,train

@@ -4,8 +4,7 @@ Shop DataSet/
 *.avi
 
 # Outputs & Checkpoints
-outputs/
-checkpoints/
+outputs/checkpoints/
 *.pt
 *.pth
 *.onnx
