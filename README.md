@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![CUDA](https://img.shields.io/badge/NVIDIA-RTX%20GPU-76B900.svg?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-zone)
 
+> ### 🧭 Project Navigation
+> - **Phase 1 (Week 5):** [Baseline Pipeline & From-Scratch / Transfer CNNs](README.md) | [Phase 1 Specification](task.md)
+> - **Phase 2 (Week 6):** [Pretrained Hugging Face VideoMAE Transformers & Benchmark](Project3_Phase2/README.md) | [Phase 2 Specification](task2.md)
+
 An enterprise-grade, end-to-end Deep Learning and Computer Vision pipeline for binary video action classification, distinguishing normal retail customer behavior from shoplifting acts in real-world surveillance CCTV footage.
 
 Built with **PyTorch 2.14** and CUDA acceleration, featuring forensic byte-level data audit, zero-leakage grouped partitioning, motion-difference temporal modeling, factorized 3D spatio-temporal convolutions, test-time augmentation (TTA), and strict operational threshold optimization.

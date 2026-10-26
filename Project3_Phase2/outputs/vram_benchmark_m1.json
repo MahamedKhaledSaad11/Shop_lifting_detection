@@ -1,0 +1,74 @@
+[
+  {
+    "model": "MCG-NJU/videomae-small-finetuned-kinetics",
+    "batch_size": 2,
+    "grad_checkpointing": false,
+    "peak_vram_mb": 926.05,
+    "peak_vram_gb": 0.904,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-S (~22M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-small-finetuned-kinetics",
+    "batch_size": 2,
+    "grad_checkpointing": true,
+    "peak_vram_mb": 443.06,
+    "peak_vram_gb": 0.433,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-S (~22M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-small-finetuned-kinetics",
+    "batch_size": 4,
+    "grad_checkpointing": false,
+    "peak_vram_mb": 1527.77,
+    "peak_vram_gb": 1.492,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-S (~22M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-small-finetuned-kinetics",
+    "batch_size": 4,
+    "grad_checkpointing": true,
+    "peak_vram_mb": 531.28,
+    "peak_vram_gb": 0.519,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-S (~22M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+    "batch_size": 2,
+    "grad_checkpointing": false,
+    "peak_vram_mb": 2371.65,
+    "peak_vram_gb": 2.316,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-B (~86M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+    "batch_size": 2,
+    "grad_checkpointing": true,
+    "peak_vram_mb": 1474.48,
+    "peak_vram_gb": 1.44,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-B (~86M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+    "batch_size": 4,
+    "grad_checkpointing": false,
+    "peak_vram_mb": 3519.93,
+    "peak_vram_gb": 3.437,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-B (~86M)"
+  },
+  {
+    "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+    "batch_size": 4,
+    "grad_checkpointing": true,
+    "peak_vram_mb": 1631.04,
+    "peak_vram_gb": 1.593,
+    "status": "SUCCESS",
+    "model_label": "VideoMAE-B (~86M)"
+  }
+]

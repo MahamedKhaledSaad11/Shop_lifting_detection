@@ -1,0 +1,19 @@
+# Checkpoints & model artifacts
+outputs/checkpoints/
+outputs/**/*.pt
+outputs/**/*.safetensors
+*.pt
+*.safetensors
+hf_cache/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & temp files
+*.log
+tmp/

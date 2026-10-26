@@ -1,33 +1,54 @@
-# Dataset
+# Dataset & Raw Videos
 Shop DataSet/
 *.mp4
 *.avi
+*.mov
+*.mkv
 
-# Outputs & Checkpoints
+# Model Checkpoints & Large Binary Weights (Phase 1 & Phase 2)
 outputs/checkpoints/
+Project3_Phase2/outputs/checkpoints/
+**/checkpoints/
 *.pt
 *.pth
+*.safetensors
 *.onnx
+*.bin
+*.ckpt
+*.h5
 *.npy
+*.npz
+hf_cache/
+**/hf_cache/
 
-# Python bytecode & cache
+# Explicitly allow CSVs, JSON metrics, and PNG plots in outputs
+!outputs/**/*.csv
+!outputs/**/*.json
+!outputs/**/*.png
+!Project3_Phase2/outputs/**/*.csv
+!Project3_Phase2/outputs/**/*.json
+!Project3_Phase2/outputs/**/*.png
+
+# Python bytecode, test & build caches
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+.coverage
+htmlcov/
 .ipynb_checkpoints/
+*.log
+tmp/
 
-# Virtual envs & IDEs
+# Virtual envs, IDEs & Agent metadata
 venv/
 env/
 .env
 .vscode/
 .idea/
+.agents/
 
 # OS files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Agent metadata
-.agents/

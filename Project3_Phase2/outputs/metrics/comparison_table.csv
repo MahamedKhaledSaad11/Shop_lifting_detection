@@ -1,0 +1,8 @@
+model_key,model_name,init_type,test_accuracy,test_accuracy_ci,test_f1_macro,test_f1_macro_ci,recall_shoplifting,precision_shoplifting,roc_auc,pr_auc,brier_score,flip_tta_accuracy,flip_tta_f1_macro,flip_tta_roc_auc,optimal_tau,test_f1_at_tau_star
+scratch_cnn3d,Scratch VideoCNN3D,Scratch (Random),0.8673,"0.8673 [0.7959, 0.9286]",0.8673,"0.8673 [0.7956, 0.9284]",0.8571,0.875,0.8755,0.8717,0.1401,0.8776,0.8776,0.8746,0.25,0.6436
+scratch_cnn_rnn,Scratch ResNet-BiGRU,Scratch (Random),0.9592,"0.9592 [0.9184, 0.9898]",0.9591,"0.9591 [0.9161, 0.9898]",1.0,0.9245,0.98,0.9756,0.0364,0.9592,0.9591,0.9913,0.81,0.9694
+pretrained_cnn_rnn,Pretrained CNN-RNN (Wk5),Transfer (ImageNet),0.9286,"0.9286 [0.8673, 0.9796]",0.9282,"0.9282 [0.8672, 0.9789]",1.0,0.875,0.995,0.9952,0.0535,0.9286,0.9282,0.9917,0.79,0.9387
+pretrained_cnn3d,Pretrained R(2+1)D-18 (Wk5),Transfer (Kinetics-400),1.0,"1.0000 [1.0000, 1.0000]",1.0,"1.0000 [1.0000, 1.0000]",1.0,1.0,1.0,1.0,0.0071,1.0,1.0,1.0,0.72,0.9694
+videomae_small,VideoMAE-Small,Pretrained (Kinetics-400),0.9796,"0.9796 [0.9490, 1.0000]",0.9796,"0.9796 [0.9485, 1.0000]",0.9592,1.0,0.9983,0.9984,0.0306,0.9694,0.9694,0.9979,0.38,0.9592
+videomae_base,VideoMAE-Base,Pretrained (Kinetics-400),0.9898,"0.9898 [0.9694, 1.0000]",0.9898,"0.9898 [0.9687, 1.0000]",0.9796,1.0,0.9996,0.9996,0.0167,0.9898,0.9898,1.0,0.5023,0.9898
+videomae_ensemble,VideoMAE-Ensemble (S+B),Ensemble,0.9898,"0.9898 [0.9694, 1.0000]",0.9898,"0.9898 [0.9687, 1.0000]",0.9796,1.0,1.0,1.0,0.0187,0.9898,0.9898,1.0,0.63,0.9694
